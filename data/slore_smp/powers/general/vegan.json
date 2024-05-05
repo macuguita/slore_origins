@@ -1,0 +1,12 @@
+{
+  "name": "Vegan",
+  "description": "As a vegan you can only eat plants and most plant derived foods.",
+  "type": "origins:prevent_item_use",
+  "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+          "tag": "slore_smp:vegan_food"
+      },
+      "inverted": true
+  }
+}

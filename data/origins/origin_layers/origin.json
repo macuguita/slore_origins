@@ -1,7 +1,9 @@
 {
     "replace": false,
     "origins": [
-      "slore_smp:candy_person"
+      "slore_smp:admin/candy_person",
+      "slore_smp:allayan",
+      "slore_smp:bug"
     ]
   }
   

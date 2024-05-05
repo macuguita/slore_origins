@@ -1,0 +1,9 @@
+{   
+    "name": "Weak",
+    "description": "You deal 1/4 less damage than a normal player",
+ "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.25
+    }
+}

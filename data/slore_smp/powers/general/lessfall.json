@@ -1,0 +1,47 @@
+{
+    "name": "Strong legs",
+    "description": "You have strong legs and take considerably less fall damage.",
+	"type": "origins:multiple",
+	"cancel": {
+		"type": "origins:modify_damage_taken",
+		"damage_condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:name",
+					"name": "fall"
+				},
+				{
+					"type": "origins:amount",
+					"comparison": "<=",
+					"compare_to": 10
+				}
+			]
+		},
+		"modifier": {
+			"operation": "multiply_total",
+			"value": -1
+		}
+	},
+	"reduce": {
+		"type": "origins:modify_damage_taken",
+		"damage_condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:name",
+					"name": "fall"
+				},
+				{
+					"type": "origins:amount",
+					"comparison": ">",
+					"compare_to": 10
+				}
+			]
+		},
+		"modifier": {
+			"operation": "addition",
+			"value": -10
+		}
+	}
+}

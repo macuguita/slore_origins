@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:elytra",
+		"slore_smp:general/small_boost",
+		"slore_smp:general/vegan",
+		"slore_smp:sizes/0_75_blocks",
+		"slore_smp:general/lessfall",
+		"slore_smp:health/4_less_hearts",
+		"slore_smp:general/2x_less_damage"
+	],
+	"icon": "minecraft:black_candle",
+	"order": 1,
+	"impact": 2,
+	"name": "Bug",
+	"description": "Bug origin made by macuguita."
+}

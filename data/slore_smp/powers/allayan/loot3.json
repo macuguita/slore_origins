@@ -1,0 +1,9 @@
+{
+"hidden": true,
+    "type": "origins:shader",
+    "shader": "minecraft:shaders/post/phosphor.json",
+"condition": {
+    "type": "origins:power_active",
+    "power": "aly:loot2"
+}
+}

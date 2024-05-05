@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"slore_smp:general/creative_flight",
+		"slore_smp:allayan/flight2",
+		"slore_smp:allayan/flight3",
+		"slore_smp:sizes/1_25_blocks",
+		"slore_smp:allayan/less_damage",
+		"slore_smp:health/5_less_hearts",
+		"slore_smp:allayan/heal",
+		"origins:fall_immunity",
+		"slore_smp:allayan/loot",
+		"slore_smp:allayan/loot2",
+		"slore_smp:allayan/loot3",
+		"slore_smp:allayan/loot4"
+	],
+	"icon": "minecraft:music_disc_otherside",
+	"order": 10,
+	"impact": 3,
+	"name": "Allayan",
+	"description": "Descendent of Allay"
+}
