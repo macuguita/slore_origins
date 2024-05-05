@@ -1,0 +1,30 @@
+{
+	"type": "origins:multiple",
+	"hastey": {
+	"type": "origins:modify_break_speed",
+	"modifier": {
+		"operation": "multiply_base",
+		"value": 2
+	}
+	},
+	"speedey": {
+		"type": "origins:attribute",
+		"modifier": {
+			"name": "increase movement speed",
+			"attribute": "minecraft:generic.movement_speed",
+			"value": 0.5,
+			"operation": "multiply_base"
+		}
+	},
+	"atkspeedy": {
+		"type": "origins:attribute",
+		"modifier": {
+			"name": "increase attack speed",
+			"attribute": "minecraft:generic.attack_speed",
+			"value": 0.5,
+			"operation": "multiply_base"
+		}
+	},
+	"name": "Hyper",
+	"description": "All that sugar has made you speedier in movement, block breaking, and attacking."
+}

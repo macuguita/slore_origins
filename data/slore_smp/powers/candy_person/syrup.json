@@ -1,0 +1,40 @@
+{
+    "type": "origins:item_on_item",
+    "using_item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "on_item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:honey_bottle"
+        }
+    },
+    "using_item_action": {
+        "type": "origins:consume",
+        "amount": 1
+    },
+    "on_item_action": {
+        "type": "origins:consume",
+        "amount": 1
+    },
+    "entity_action": {
+		"type": "origins:and",
+		"actions": [
+		{
+        "type": "origins:play_sound",
+        "sound": "minecraft:entity.villager.work_cleric",
+        "volume": 1,
+        "pitch": 2
+		},
+		{
+			"type": "origins:execute_command",
+			"command": "give @s potion{Potion:\"minecraft:swiftness\"} 1"
+		}
+		]
+    },
+	"name": "Special Syrup",
+	"description": "You can use a sugar on a bottle of honey in your inventory to create a potion of swiftness."
+}

@@ -1,0 +1,10 @@
+{
+"type": "origins:modify_damage_dealt",
+"modifier": {
+"name": "less damage",
+"operation": "multiply_base",
+"value": -0.45
+},
+"name": "Flimsy",
+"description": "Too much sugar isn't good for you! You deal less damage than a human."
+}

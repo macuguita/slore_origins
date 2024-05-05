@@ -1,0 +1,21 @@
+{
+	"type": "origins:multiple",
+	"sugarbottle": {
+    "type": "origins:modify_crafting",
+    "recipe": "minecraft:sugar_from_honey_bottle",
+    "result": {
+        "item": "minecraft:sugar",
+		"amount": 5
+    }
+	},
+	"sugarfrcane": {
+		"type": "origins:modify_crafting",
+		"recipe": "minecraft:sugar_from_sugar_cane",
+		"result": {
+			"item": "minecraft:sugar",
+			"amount": 3
+		}
+	},
+	"name": "Sugar Extractor",
+	"description": "You get extra sugar from crafting recipes"
+}

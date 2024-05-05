@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Natural Armor health bonus",
+    "attribute": "minecraft:generic.armor",
+    "value": 3.0,
+    "operation": "addition"
+  },
+  "name": "Candy Coating",
+  "description": "You have some hard candy on you granting you extra armor points."
+}

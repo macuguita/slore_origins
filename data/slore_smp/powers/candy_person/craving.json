@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "modifier": {
+    "name": "Extra exhaustion from being weird",
+    "value": 1,
+    "operation": "multiply_base"
+  },
+  "name": "Endless Hunger",
+  "description": "You exhaust faster due to your uncontrollable cravings."
+}
