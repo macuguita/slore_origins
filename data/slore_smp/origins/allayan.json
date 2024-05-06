@@ -1,8 +1,8 @@
 {
 	"powers": [
 		"slore_smp:general/creative_flight",
-		"slore_smp:allayan/flight2",
-		"slore_smp:allayan/flight3",
+		"slore_smp:allayan/slow_mining_while_flying",
+		"slore_smp:allayan/slow_flight",
 		"slore_smp:sizes/1_25_blocks",
 		"slore_smp:allayan/less_damage",
 		"slore_smp:health/5_less_hearts",
