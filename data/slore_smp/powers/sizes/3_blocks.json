@@ -1,0 +1,34 @@
+{
+    "name": "Crocodile body",
+    "description": "You are big like a crocodile and have more hearts.",
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:height 1.5 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:width 1.5 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:entity_reach 1.5 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:step_height 1.5 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale persist set true @s"
+            }
+        ]
+    },
+    "entity_action_lost": {
+        "type": "origins:execute_command",
+        "command": "scale reset @s"
+    }
+}

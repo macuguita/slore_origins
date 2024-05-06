@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"origins:natural_armor",
+		"slore_smp:sizes/3_blocks",
+		"slore_smp:general/water_vision",
+		"origins:swim_speed",
+		"origins:like_water",
+		"origins:aquatic",
+		"origins:conduit_power_on_land",
+		"origins:air_from_potions",
+		"slore_smp:general/water_breathing",
+		"slore_smp:general/slow_on_land",
+		"slore_smp:general/carnivore",
+		"slore_smp:health/2_more_hearts",
+		"slore_smp:general/lumbering_strength"
+	],
+	"icon": "minecraft:tropical_fish_bucket",
+	"order": 1,
+	"impact": 2,
+	"name": "Crocodile",
+	"description": "Crocodile origin made by macuguita."
+}

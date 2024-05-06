@@ -1,0 +1,10 @@
+{
+	"type": "origins:night_vision",
+	"name": "Wet Eyes",
+	"description": "Your wet eyes can see a lot better in water.",
+	"strength": 1.0,
+	"condition": {
+		"type": "origins:submerged_in",
+		"fluid": "minecraft:water"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:fragile",
+		"slore_smp:bunny/bunny_necessities",
+		"slore_smp:sizes/1_5_blocks",
+		"origins:sprint_jump",
+		"slore_smp:bunny/carrot_craver",
+		"origins:fall_immunity"
+	],
+	"icon": "minecraft:carrot",
+	"order": 1,
+	"impact": 2,
+	"name": "Bunny",
+	"description": "Bunny origin made by macuguita."
+}
