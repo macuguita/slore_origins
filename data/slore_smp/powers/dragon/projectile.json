@@ -1,0 +1,14 @@
+{
+	"type": "origins:modify_damage_taken",
+	"damage_condition": {
+		"type": "origins:projectile",
+		"projectiles": "minecraft:arrow"
+	},
+	"modifier": {
+		"name": "Weak to projectiles",
+		"operation": "addition",
+		"value": 4.0
+	},
+	"name":"Being hunted",
+	"description":"As a dragon you naturally take more damage from arrows due to your cind being hunted."
+}

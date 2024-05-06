@@ -1,0 +1,34 @@
+{
+    "type": "origins:modify_damage_taken",
+    "bientity_condition": {
+        "type": "origins:actor_condition",
+        "condition": {
+            "type": "origins:equipped_item",
+            "equipment_slot": "mainhand",
+            "item_condition": {
+                "type": "origins:or",
+                "conditions": [
+                    {
+                        "type": "origins:enchantment",
+                        "enchantment": "minecraft:binding_curse",
+                        "comparison": ">=",
+                        "compare_to": 1
+                    },
+                    {
+                        "type": "origins:enchantment",
+                        "enchantment": "minecraft:vanishing_curse",
+                        "comparison": ">=",
+                        "compare_to": 1
+                    }
+                ]
+            }
+        }
+    },
+    "modifier": {
+        "name": "Weak to cursed items",
+        "operation": "addition",
+        "value": 5.5
+    },
+    "name": "A curse",
+    "description": "As a dragon the 'binding curse' and 'vanishing curse' on weapons harm you more then normal weapons."
+}

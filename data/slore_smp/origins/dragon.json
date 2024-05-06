@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"origins:elytra",
+		"slore_smp:sizes/4_blocks",
+		"slore_smp:health/3_more_hearts",
+		"origins:more_exhaustion",
+		"slore_smp:general/lumbering_strength",
+		"slore_smp:general/ride",
+		"origins:no_shield",
+		"slore_smp:dragon/no_sleep",
+		"slore_smp:dragon/curse",
+		"origins:water_vulnerability",
+		"slore_smp:dragon/projectile",
+		"slore_smp:general/lessfall",
+		"slore_smp:dragon/disable_wings"
+	],
+	"icon": "minecraft:lava_bucket",
+	"order": 1,
+	"impact": 3,
+	"name": "Dragon",
+	"description": "Dragon origin made by macuguita."
+}

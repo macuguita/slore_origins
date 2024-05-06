@@ -1,6 +1,6 @@
 {
-    "name": "Bunny body",
-    "description": "You are smaller like a bunny (1.5 blocks).",
+    "name": "Short",
+    "description": "You are 1.5 blocks tall.",
     "type": "origins:action_on_callback",
     "entity_action_chosen": {
         "type": "origins:and",

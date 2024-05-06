@@ -1,25 +1,29 @@
 {
-    "name": "Tall",
-    "description": "You are 3 blocks tall.",
+    "name": "Giant",
+    "description": "You are 4 blocks tall.",
     "type": "origins:action_on_callback",
     "entity_action_chosen": {
         "type": "origins:and",
         "actions": [
             {
                 "type": "origins:execute_command",
-                "command": "scale set pehkui:height 1.5 @s"
+                "command": "scale set pehkui:height 2 @s"
             },
             {
                 "type": "origins:execute_command",
-                "command": "scale set pehkui:width 1.5 @s"
+                "command": "scale set pehkui:width 2 @s"
             },
             {
                 "type": "origins:execute_command",
-                "command": "scale set pehkui:entity_reach 1.5 @s"
+                "command": "scale set pehkui:reach 2 @s"
             },
             {
                 "type": "origins:execute_command",
-                "command": "scale set pehkui:step_height 1.5 @s"
+                "command": "scale set pehkui:step_height 2 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:jump_height 1.35 @s"
             },
             {
                 "type": "origins:execute_command",

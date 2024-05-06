@@ -1,0 +1,44 @@
+{
+    "name": "Piggyback",
+    "description": "You are highly welcoming to others and willing to let anybody ride on your back.",
+    "type": "origins:multiple",
+    "mount": {
+        "name": "Mountable",
+        "type": "origins:action_on_being_used",
+        "bientity_action": {
+            "type": "origins:mount"
+        },
+        "bientity_condition": {
+            "type": "origins:target_condition",
+            "condition": {
+                "inverted": true,
+                "type": "origins:passenger",
+                "comparison": ">=",
+                "compare_to": 1
+            }
+        },
+        "action_result": "success"
+    },
+    "damage": {
+        "type": "origins:modify_damage_dealt",
+        "bientity_condition": {
+            "type": "origins:invert",
+            "condition": {
+                "type": "origins:riding"
+            }
+        },
+        "modifier": {
+            "operation": "multiply_total",
+            "value": -1
+        }
+    },
+    "use": {
+        "type": "origins:prevent_entity_use",
+        "bientity_condition": {
+            "type": "origins:invert",
+            "condition": {
+                "type": "origins:riding"
+            }
+        }
+    }
+}
