@@ -1,10 +1,11 @@
 {
     "replace": false,
     "origins": [
-      "slore_smp:admin/candy_person",
-      "slore_smp:admin/monkey",
       "slore_smp:admin/queen_bee/bee",
       "slore_smp:admin/queen_bee/queen_bee",
+      "slore_smp:admin/candy_person",
+      "slore_smp:admin/racoon",
+      "slore_smp:admin/monkey",
       "slore_smp:allayan",
       "slore_smp:bug",
       "slore_smp:bunny",
@@ -17,7 +18,8 @@
       "slore_smp:grizzly",
       "slore_smp:llamaborn",
       "gelatinous:gelatinous",
-      "slore_smp:microbe"
+      "slore_smp:microbe",
+      "slore_smp:mush"
     ]
   }
   
