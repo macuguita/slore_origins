@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"slore_smp:racoon/eat",
+		"slore_smp:general/hunger_immunity",
+		"slore_smp:general/night_vision",
+		"slore_smp:racoon/nocturnal",
+		"slore_smp:racoon/scurry",
+		"slore_smp:sizes/1_5_blocks",
+		"slore_smp:racoon/no_wheat",
+		"slore_smp:racoon/camouflage",
+		"slore_smp:racoon/climbing",
+		"slore_smp:racoon/nimble",
+		"slore_smp:racoon/passive_phantoms",
+		"slore_smp:general/lessfall"
+	],
+	"icon": "minecraft:poisonous_potato",
+	"order": 1,
+	"impact": 2,
+	"name": "Raccoon",
+	"description": "Racoon origin made by macuguita.",
+	"unchoosable": true
+}

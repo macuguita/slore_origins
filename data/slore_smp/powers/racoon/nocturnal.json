@@ -1,0 +1,7 @@
+{
+	"type": "origins:prevent_sleep",
+	"inverted": true,
+	"message": "You cannot sleep!",
+	"name": "Nocturnal",
+	"description": "As a nocturnal creature, you cannot sleep. However, you can still set your spawn in beds."
+}

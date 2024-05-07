@@ -1,0 +1,16 @@
+{
+	"type": "origins:modify_food",
+	"item_condition": {
+		"type": "origins:ingredient",
+		"ingredient": {
+			"item": "minecraft:rotten_flesh"
+		}
+	},
+	"saturation_modifier": {
+		"name": "Increased saturation points",
+		"operation": "multiply_total",
+		"value": 8
+	},
+	"name": "Opportunistic Eater",
+	"description": "Racoons will eat whatever is most convenient, including rotten flesh. You get more saturation from normal from rotten flesh and have immunity to hunger."
+}
