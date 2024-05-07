@@ -16,8 +16,7 @@
 		"gelatinous:mass/mass_extermination",
 		"gelatinous:mass/mass_decay",
 		"gelatinous:mass/retain_slimeball",
-		"gelatinous:visual/model_color_default",
-		"gelatinous:credits"
+		"gelatinous:visual/model_color_default"
 	],
 	"icon": "minecraft:slime_ball",
 	"order": 5,
