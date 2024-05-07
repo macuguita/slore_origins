@@ -2,7 +2,7 @@
 	"powers": [
 		"origins:elytra",
 		"origins:swim_speed",
-		"origins:water_vision",
+		"slore_smp:flying_fish/water_vision",
 		"origins:water_breathing",
 		"origins:like_water",
 		"origins:aquatic",
