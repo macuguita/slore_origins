@@ -10,6 +10,7 @@
 		"origins:air_from_potions",
 		"origins:aqua_affinity",
 		"slore_smp:sizes/1_5_blocks",
+		"slore_smp:general/flammable",
 		"slore_smp:health/4_less_hearts",
 		"origins:no_shield",
 		"slore_smp:flying_fish/water_dash",

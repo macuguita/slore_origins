@@ -1,0 +1,9 @@
+{
+    "name": "What once was home",
+    "description": "You appear in the nearest Ancient City",
+    "type": "origins:modify_player_spawn",
+    "dimension": "overworld",
+    "structure": "ancient_city",
+    "spawn_strategy": "default",
+    "dimension_distance_multiplier": 1
+}
