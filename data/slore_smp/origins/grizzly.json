@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"slore_smp:sizes/2_5_blocks",
+		"slore_smp:general/lumbering_strength",
+		"slore_smp:general/pescatarian",
+		"slore_smp:general/feared_by_villagers",
+		"slore_smp:bear/roar",
+		"slore_smp:health/2_more_hearts",
+		"slore_smp:general/ride"
+	],
+	"icon": "minecraft:salmon",
+	"order": 1,
+	"impact": 2,
+	"name": "Grizzly",
+	"description": "Big, burly, but with hearts of gold, you're the biggest predator of the woods. Made by Toes."
+}

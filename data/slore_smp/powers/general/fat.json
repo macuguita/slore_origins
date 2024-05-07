@@ -1,0 +1,11 @@
+{
+    "name": "Fat",
+    "description": "You are fat, you are 0.85x slower.",
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Movement speed slowness",
+        "attribute": "minecraft:generic.movement_speed",
+        "value": 0.85,
+        "operation": "multiply_total"
+    }
+}

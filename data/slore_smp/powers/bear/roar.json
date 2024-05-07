@@ -1,0 +1,20 @@
+{
+    "name": "Roar",
+    "description": "Let out a mighty roar.",
+    "type": "origins:active_self",
+    "cooldown": 10,
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:play_sound",
+                "sound": "minecraft:entity.polar_bear.warning",
+                "volume": 100,
+                "pitch": 1
+            }
+        ]
+    },
+    "key": {
+        "key": "key.origins.primary_active"
+    }
+}
