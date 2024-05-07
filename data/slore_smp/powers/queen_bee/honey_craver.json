@@ -1,0 +1,24 @@
+{
+    "type": "origins:modify_food",
+"item_condition": {
+    "type": "origins:ingredient",
+    "ingredient": [
+        {
+            "item": "farmersdelight:honey_cookie"
+        },
+        {
+            "item": "farmersdelight:honey_glazed_ham"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        }
+    ]
+},
+    "food_modifier": {
+        "name": "Increased food points",
+        "operation": "addition",
+        "value": 4.0
+    },
+      "name": "Honey Craver",
+	"description": "You get extra food points from foods that contain honey."
+}

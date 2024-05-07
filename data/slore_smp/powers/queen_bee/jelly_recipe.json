@@ -1,0 +1,26 @@
+{
+    "type": "origins:recipe",
+    "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "id": "origins:trident",
+        "pattern": [
+            "###",
+            "#$#",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:honey_bottle"
+            },
+            "$": {
+                "item": "minecraft:diamond_block"
+            }
+        },
+        "result": {
+            "item": "the_bumblezone:royal_jelly_bottle",
+            "count": 8
+        }
+    },
+    "name": "Royal jelly producer",
+    "description": "You can craft royal jelly!"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "origins:active_self",
+    "name": "Queen transformation",
+    "description": "You can transform into the queen bee using your secondary key.",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "origin set @s origins:origin queen:bee"
+            }
+        ]
+    },
+      "key": {
+        "key": "key.origins.secondary_active",
+        "continuous": false
+    }
+  }
+  
