@@ -16,8 +16,7 @@
 		"slore_smp:microbe/mass/mass_extermination",
 		"slore_smp:microbe/mass/mass_decay",
 		"slore_smp:microbe/mass/retain_slimeball",
-		"slore_smp:microbe/visual/model_color_default",
-		"slore_smp:microbe/credits"
+		"slore_smp:microbe/visual/model_color_default"
 	],
 	"icon": "minecraft:slime_ball",
 	"order": 5,
