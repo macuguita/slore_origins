@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "name": "Spongy",
+    "description":"Mycelium is more fragile than flesh.",
+    "modifier": {
+        
+        "attribute": "minecraft:generic.max_health",
+        "value": -4,
+        "operation": "addition"
+    }
+}

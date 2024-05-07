@@ -1,0 +1,18 @@
+{
+	"powers": [
+		
+		"slore_smp:mush/moist",
+		"slore_smp:mush/waterlungs",
+		"slore_smp:mush/inhabitant",
+		"slore_smp:mush/falldamage",
+		"slore_smp:mush/creepingcap",
+		"slore_smp:mush/dehydration",
+		"slore_smp:mush/heat",
+		"slore_smp:health/2_less_hearts"
+	],
+	"icon": "minecraft:red_mushroom",
+	"order": 3,
+	"impact": 3,
+	"name": "Mushling",
+	"description": "Just a fungus boi with dank intentions."
+}
