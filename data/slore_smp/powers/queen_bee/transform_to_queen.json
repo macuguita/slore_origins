@@ -7,7 +7,7 @@
         "actions": [
             {
                 "type": "origins:execute_command",
-                "command": "origin set @s origins:origin queen:queen_bee"
+                "command": "origin set @s origins:origin slore_smp:admin/queen_bee/queen_bee"
             }
         ]
     },
