@@ -14,12 +14,13 @@
 		"origins:no_shield",
 		"slore_smp:flying_fish/water_dash",
 		"slore_smp:flying_fish/breathing_exercise",
-		"slore_smp:flying_fish/disable_wings"
+		"slore_smp:flying_fish/enable_wings"
 
 	],
 	"icon": "minecraft:tropical_fish",
 	"order": 1,
 	"impact": 3,
 	"name": "Flying fish",
-	"description": "Flying fish origin made by macuguita."
+	"description": "Flying fish origin made by macuguita.",
+	"unchoosable": true
 }
