@@ -9,7 +9,7 @@
             "conditions": [
                 {
                     "type": "origins:resource",
-                    "resource": "gelatinous:mass/mass",
+                    "resource": "slore_smp:microbe/mass/mass",
                     "compare_to": 40,
                     "comparison": "<="
                 },
@@ -29,7 +29,7 @@
         "active_by_default": true,
         "condition": {
             "type": "origins:resource",
-            "resource": "gelatinous:mass/mass",
+            "resource": "slore_smp:microbe/mass/mass",
             "compare_to": 40,
             "comparison": "<="
         },

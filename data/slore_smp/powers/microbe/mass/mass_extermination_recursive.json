@@ -5,7 +5,7 @@
         "actions": [
             {
                 "type": "origins:change_resource",
-                "resource": "gelatinous:mass/mass",
+                "resource": "slore_smp:microbe/mass/mass",
                 "change": -1
             },
             {
@@ -24,7 +24,7 @@
                         },
                         {
                             "type": "origins:execute_command",
-                            "command": "scoreboard players remove @s gelatinous.massExtermination.Health2 1"
+                            "command": "scoreboard players remove @s slore_smp.massExtermination.Health2 1"
                         },
                          {
                             "type": "origins:heal",

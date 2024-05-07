@@ -25,7 +25,7 @@
                 },
                 {
                     "type": "origins:execute_command",
-                    "command": "scoreboard players set @s gelatinous.massStats.massResource2 50"
+                    "command": "scoreboard players set @s slore_smp.massStats.massResource2 50"
                 }
             ]
         }
@@ -36,7 +36,7 @@
             {
                 "operation": "set_base",
                 "value": 0,
-                "resource": "gelatinous:mass/mass"
+                "resource": "slore_smp:microbe/mass/mass"
             },
             {
                 "operation": "multiply_total_multiplicative",
@@ -51,7 +51,7 @@
             {
                 "operation": "add_base_early",
                 "value": 0,
-                "resource": "gelatinous:mass/mass"
+                "resource": "slore_smp:microbe/mass/mass"
             },
             {
                 "operation": "multiply_base_multiplicative",
@@ -67,7 +67,7 @@
         "type": "origins:action_over_time",
         "entity_action": {
             "type": "origins:execute_command",
-            "command": "function gelatinous:mass/stats/check_mass"
+            "command": "function slore_smp:microbe/mass/stats/check_mass"
         },
         "interval": 1
     }

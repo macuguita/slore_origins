@@ -11,7 +11,7 @@
     ],
     "entity_action": {
        "type": "origins:execute_command",
-       "command": "function gelatinous:mass/health_check"
+       "command": "function slore_smp:microbe/mass/health_check"
     },
     "interval": 1
 }

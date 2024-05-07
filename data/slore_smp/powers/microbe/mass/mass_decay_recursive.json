@@ -6,7 +6,7 @@
             "type": "origins:resource",
             "compare_to": 25,
             "comparison": ">",
-            "resource": "gelatinous:mass/mass"
+            "resource": "slore_smp:microbe/mass/mass"
         },
         "if_action": {
             "type": "origins:and",
@@ -15,7 +15,7 @@
                     "type": "origins:chance",
                     "action": {
                         "type": "origins:change_resource",
-                        "resource": "gelatinous:mass/mass",
+                        "resource": "slore_smp:microbe/mass/mass",
                         "change": -1
                     },
                     "chance": 0.5
@@ -41,7 +41,7 @@
                             },
                             {
                                 "type": "origins:execute_command",
-                                "command": "scoreboard players remove @s gelatinous.massExtermination.Health2 1"
+                                "command": "scoreboard players remove @s slore_smp.massExtermination.Health2 1"
                             },
                             {
                                 "type": "origins:heal",
@@ -54,7 +54,7 @@
         },
         "else_action": {
             "type": "origins:execute_command",
-            "command": "scoreboard players remove @s gelatinous.massExtermination.Food2 1"
+            "command": "scoreboard players remove @s slore_smp.massExtermination.Food2 1"
         }
     }
 }

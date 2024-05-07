@@ -7,7 +7,7 @@
         "interval": 1,
         "entity_action": {
             "type": "origins:execute_command",
-            "command": "function gelatinous:survivability/malleable/update_resource"
+            "command": "function slore_smp:microbe/survivability/malleable/update_resource"
         }
     },
     "health": {
@@ -23,7 +23,7 @@
         "modifier": {
             "operation": "max_total",
             "value": 0,
-            "resource": "gelatinous:survivability/malleable_health"
+            "resource": "slore_smp:microbe/survivability/malleable_health"
         },
         "damage_condition": {
             "type": "origins:name",

@@ -21,7 +21,7 @@
             "actions": [
                 {
                     "type": "origins:change_resource",
-                    "resource": "gelatinous:mass/mass",
+                    "resource": "slore_smp:microbe/mass/mass",
                     "change": 2
                 },
                 {
@@ -59,7 +59,7 @@
                 },
                 {
                     "type": "origins:trigger_cooldown",
-                    "power": "gelatinous:mass/mass_cooldown"
+                    "power": "slore_smp:microbe/mass/mass_cooldown"
                 },
                 {
                     "type": "origins:play_sound",
@@ -99,13 +99,13 @@
             "conditions": [
                 {
                     "type": "origins:resource",
-                    "resource": "gelatinous:mass/mass_cooldown",
+                    "resource": "slore_smp:microbe/mass/mass_cooldown",
                     "compare_to": 0,
                     "comparison": "=="
                 },
                 {
                     "type": "origins:resource",
-                    "resource": "gelatinous:mass/mass",
+                    "resource": "slore_smp:microbe/mass/mass",
                     "compare_to": 100,
                     "comparison": "<"
                 },
@@ -146,7 +146,7 @@
         "always_edible": true,
         "entity_action": {
             "type": "origins:change_resource",
-            "resource": "gelatinous:mass/mass",
+            "resource": "slore_smp:microbe/mass/mass",
             "change": 2
         },
         "condition": {

@@ -7,7 +7,7 @@
     },
     "condition": {
         "type": "origins:resource",
-        "resource": "gelatinous:mass/mass_cooldown",
+        "resource": "slore_smp:microbe/mass/mass_cooldown",
         "compare_to": 0,
         "comparison": ">"
     }
