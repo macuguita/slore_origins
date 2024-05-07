@@ -1,0 +1,16 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 1,
+    "max_stacks": 1,
+    "duration_per_stack": 69,
+    "effects": [
+        {
+            "effect": "minecraft:speed",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+	"name": "Squirrel Power",
+	"description": "You're a squirrel, so you can run faster."
+}

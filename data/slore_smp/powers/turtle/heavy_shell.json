@@ -1,0 +1,18 @@
+{
+	"type": "origins:conditioned_attribute",
+	"modifier": {
+		"attribute": "generic.movement_speed",
+		"operation": "addition",
+		"value": -0.02
+	},
+	"condition": {
+		"type": "origins:in_block",
+		"block_condition": {
+			"type": "origins:block",
+			"block": "minecraft:water"
+		},
+		"inverted": true
+	},
+	"name": "Heavy Shell",
+	"description": "You're slower on land due to the heaviness of your shell."
+}

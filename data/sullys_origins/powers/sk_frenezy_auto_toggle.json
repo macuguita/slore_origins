@@ -1,0 +1,20 @@
+{
+	"hidden":true,
+	"type": "origins:action_over_time",
+    "interval": 20,
+	"entity_action": {
+        "type": "origins:change_resource",
+		"resource": "sullys_origins:sk_frenezy_check",
+		"change": 0,
+		"operation": "set"		
+},
+	"condition": {
+	
+		"type": "origins:resource",
+		"resource": "sullys_origins:sk_frenezy_bar",
+		"comparison": "<",
+		"compare_to": 2
+
+           	}
+}
+   

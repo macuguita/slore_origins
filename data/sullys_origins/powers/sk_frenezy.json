@@ -1,0 +1,37 @@
+{
+    "hidden":true,
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+    "type": "origins:apply_effect",
+    "effects": [
+    {
+        "effect": "minecraft:strength",
+        "duration": 40,
+        "amplifier": 2,
+        "is_ambient": false,
+        "show_particles": false,
+        "show_icon": true
+    },
+    {
+        "effect": "minecraft:resistance",
+        "duration": 40,
+        "amplifier": 2,
+        "is_ambient": false,
+        "show_particles": false,
+        "show_icon": true
+    }
+    ]
+    },
+    "condition": {
+	
+		"type": "origins:resource",
+		"resource": "sullys_origins:sk_frenezy_check",
+		"comparison": ">",
+		"compare_to": 1
+
+			}
+  
+  
+    }
+

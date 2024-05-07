@@ -1,0 +1,29 @@
+{
+  "name": "Nautical Nature",
+  "description": "You are adapted to live underwater, making so you can swim, mine and breath when submerged in water.",
+  "type": "origins:multiple",
+  "air": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:gain_air",
+      "value": 20
+    },
+    "interval": 20
+  },
+  "vision": {
+    "type": "origins:night_vision",
+    "strength": 0.5,
+    "condition": {
+      "type": "origins:submerged_in",
+      "fluid": "minecraft:water"
+    }
+  },
+  "swim": {
+    "type": "origins:modify_swim_speed",
+    "modifier": {
+      "operation": "addition",
+      "value": 0.030
+    },
+    "hidden": true
+  }
+}

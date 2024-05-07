@@ -1,0 +1,41 @@
+{
+    "name": "Bite",
+    "description": "You attack creatures with a powerful bite",
+    "type": "origins:active_self",
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": false
+    },
+    "entity_action": {
+        "type": "origins:raycast",
+        "shape_type": "visual",
+        "fluid_handling": "none",
+        "bientity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:damage",
+                    "amount": 6,
+                    "source": {
+                        "name": "Bite",
+                        "bypasses_armor": false,
+                        "fire": false,
+                        "magic": true,
+                        "out_of_world": false,
+                        "unblockable": true
+                    }
+                },
+                {
+                    "type": "origins:add_velocity",
+                    "y": -0.5,
+                    "z": -0.5,
+                    "client": true,
+                    "server": true
+                }
+            ]
+        },
+        "distance": 2.5,
+        "command_at_hit": "particle minecraft:dust 1 0 0 40 ~ ~ ~ 0.1 0.1 0.1 0 2",
+        "command_step": 0.25
+    }
+}
