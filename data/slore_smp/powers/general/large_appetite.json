@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+      "value": 0.6,
+      "operation": "multiply_base"
+    },
+    "name": "Large appetite",
+    "description": "Due to the amount of fat in your body, you drain hunger faster."
+  }
