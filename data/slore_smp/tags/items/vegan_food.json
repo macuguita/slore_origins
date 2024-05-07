@@ -644,6 +644,11 @@
         {
             "id": "expandeddelight:snickerdoodle",
             "required": false
+       },
+       {
+           "id": "the_bumblezone:royal_jelly_bottle",
+
+           "required": false
        }
    ]
 }

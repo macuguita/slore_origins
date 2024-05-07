@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"slore_smp:duck/smol_birb",
+		"slore_smp:duck/granivore",
+		"slore_smp:duck/tweet",
+		"slore_smp:general/small_boost",
+		"slore_smp:health/4_less_hearts",
+		"slore_smp:general/no_bows",
+		"slore_smp:general/pescatarian",
+		"slore_smp:general/turtle_helmet"
+	],
+	"icon": "minecraft:chicken",
+	"order": 10,
+	"impact": 2,
+	"name": "Duck",
+	"description": "Duck origin made by macuguita."
+}

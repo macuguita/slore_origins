@@ -60,6 +60,11 @@
               "id": "farmersdelight:cabbage_rolls",
    
               "required": false
+          },
+          {
+              "id": "the_bumblezone:royal_jelly_bottle",
+   
+              "required": false
           }
     ]
 }
