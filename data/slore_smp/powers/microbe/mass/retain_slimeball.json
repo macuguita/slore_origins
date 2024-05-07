@@ -1,0 +1,10 @@
+{
+    "type": "origins:keep_inventory",
+    "hidden": true,
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:slime_ball"
+        }
+    }
+}

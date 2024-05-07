@@ -1,0 +1,20 @@
+{
+    "type": "origins:resource",
+    "name": "Gooey Mass",
+    "description": "You have a Mass meter. The majority of your stats, whether beneficial or not, are proportional to your current mass.",
+    "badges": [
+        {
+            "type": "origins:tooltip",
+            "sprite": "origins:textures/gui/badge/info.png",
+            "text": "Affected Stats:\n- Size\n- Maximum Health\n- Movement Speed\n- Step Height"
+        }
+    ],
+    "min": 1,
+    "max": 100,
+    "start_value": 30,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+        "bar_index": 21
+    }
+}

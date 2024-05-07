@@ -1,0 +1,60 @@
+{
+    "type": "origins:action_on_callback",
+    "entity_action_added": {
+        "type": "origins:if_else",
+        "condition": {
+            "type": "origins:resource",
+            "compare_to": 25,
+            "comparison": ">",
+            "resource": "gelatinous:mass/mass"
+        },
+        "if_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:chance",
+                    "action": {
+                        "type": "origins:change_resource",
+                        "resource": "gelatinous:mass/mass",
+                        "change": -1
+                    },
+                    "chance": 0.5
+                },
+                {
+                    "type": "origins:feed",
+                    "food": 1,
+                    "saturation": 0
+                },
+                {
+                    "type": "origins:if_else",
+                    "condition": {
+                        "type": "origins:health",
+                        "compare_to": 1,
+                        "comparison": ">"
+                    },
+                    "if_action": {
+                        "type": "origins:and",
+                        "actions": [
+                            {
+                                "type": "origins:heal",
+                                "amount": -1
+                            },
+                            {
+                                "type": "origins:execute_command",
+                                "command": "scoreboard players remove @s gelatinous.massExtermination.Health2 1"
+                            },
+                            {
+                                "type": "origins:heal",
+                                "amount": 1
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "else_action": {
+            "type": "origins:execute_command",
+            "command": "scoreboard players remove @s gelatinous.massExtermination.Food2 1"
+        }
+    }
+}

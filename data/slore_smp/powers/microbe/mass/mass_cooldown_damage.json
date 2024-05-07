@@ -1,0 +1,14 @@
+{
+    "type": "origins:modify_damage_taken",
+    "hidden": true,
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 1
+    },
+    "condition": {
+        "type": "origins:resource",
+        "resource": "gelatinous:mass/mass_cooldown",
+        "compare_to": 0,
+        "comparison": ">"
+    }
+}

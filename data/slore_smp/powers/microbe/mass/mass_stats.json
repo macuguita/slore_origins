@@ -1,0 +1,74 @@
+{
+    "type": "origins:multiple",
+    "hidden": true,
+    "size_reset": {
+        "type": "origins:action_on_callback",
+        "entity_action_lost": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale reset @s"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale persist false"
+                }
+            ]
+        },
+        "entity_action_added": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale reset @s"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "scoreboard players set @s gelatinous.massStats.massResource2 50"
+                }
+            ]
+        }
+    },
+    "maximum_health": {
+        "type": "origins:modify_attribute",
+        "modifiers": [
+            {
+                "operation": "set_base",
+                "value": 0,
+                "resource": "gelatinous:mass/mass"
+            },
+            {
+                "operation": "multiply_total_multiplicative",
+                "value": -0.6
+            }
+        ],
+        "attribute": "minecraft:generic.max_health"
+    },
+    "jump_height": {
+        "type": "origins:modify_jump",
+        "modifiers": [
+            {
+                "operation": "add_base_early",
+                "value": 0,
+                "resource": "gelatinous:mass/mass"
+            },
+            {
+                "operation": "multiply_base_multiplicative",
+                "value": -0.9935
+            },
+            {
+                "operation": "add_base_late",
+                "value": 0.16
+            }
+        ]
+    },
+    "size": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:execute_command",
+            "command": "function gelatinous:mass/stats/check_mass"
+        },
+        "interval": 1
+    }
+}
