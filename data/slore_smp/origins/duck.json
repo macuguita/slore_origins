@@ -11,7 +11,7 @@
 	],
 	"icon": "minecraft:chicken",
 	"order": 10,
-	"impact": 2,
+	"impact": 1,
 	"name": "Duck",
 	"description": "Duck origin made by macuguita."
 }

@@ -9,7 +9,7 @@
 	],
 	"icon": "minecraft:carrot",
 	"order": 1,
-	"impact": 2,
+	"impact": 1,
 	"name": "Bunny",
 	"description": "Bunny origin made by macuguita."
 }
