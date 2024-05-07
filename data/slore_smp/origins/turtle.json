@@ -17,6 +17,5 @@
 	"order": 9,
 	"impact": 2,
 	"name": "Turtle",
-	"description": "Though they're slow on land, turtles have a protective shell they can hide in when in danger, and are very fast in water.",
-	"unchoosable": true
+	"description": "Though they're slow on land, turtles have a protective shell they can hide in when in danger, and are very fast in water."
 }

@@ -1,654 +1,525 @@
 {
-  "replace": false,
-  "values": [
-        {
-            "id": "#c:foods/berries",
- 
-            "required": false
-        },
-        {
-            "id": "c:foods/vegetables",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:hot_cocoa",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:apple_cider",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:apple_juice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:melon_juice",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:sweet_berry_juice",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:glow_berry_juice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:tomato_sauce",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:wheat_dough",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:raw_pasta",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:pumpkin_slice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:cabbage_leaf",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:pie_crust",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:cake_slice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:apple_pie_slice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:sweet_berry_cheesecake_slice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:chocolate_pie_slice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:honey_cookie",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:sweet_berry_cookie",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:melon_popsicle",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:glow_berry_custard",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:fruit_salad",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:mixed_salad",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:nether_salad",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:dumplings",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:stuffed_potato",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:cabbage_rolls",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:kelp_roll",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:kelp_roll_slice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:cooked_rice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:vegetable_soup",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:fried_rice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:pumpkin_soup",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:mushroom_rice",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:vegetable_noodles",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:ratatouille",
- 
-            "required": false
-        },
-        {
-            "id": "farmersdelight:stuffed_pumpkin",
- 
-            "required": false
-        },
-        {
-            "id": "#c:crops",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:apple",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:golden_apple",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:enchanted_golden_apple",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:melon_slice",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:chorus_fruit",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:golden_carrot",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:baked_potato",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:poisonous_potato",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:dried_kelp",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:bread",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:cookie",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:pumpkin_pie",
- 
-            "required": false
-        },
-        {
-            "id": "supplementaries:candy",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:mushroom_stew",
- 
-            "required": false
-        },
-        {
-            "id": "minecraft:beetroot_soup",
- 
-            "required": false
-        },
-        {
-            "id": "the_bumblezone:sugar_water_bottle",
- 
-            "required": false
-        },
-        {
-            "id": "vinery:cherry",
- 
-            "required": false
-        },
-        {
-            "id": "vinery:rotten_cherry",
- 
-            "required": false
-        },
-        {
-            "id": "#vinery:grape",
- 
-            "required": false
-        },
-        {
-            "id": "vinery:apple_juice",
- 
-            "required": false
-        },
-        {
-            "id": "#vinery:grapejuice",
- 
-            "required": false
-        },
-        {
-            "id": "#vinery:wine",
- 
-            "required": false
-        },
-        {
-            "id": "vinery:mead",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:hops",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:barley",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:corn",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:beer_wheat",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:beer_barley",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:beer_hops",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:beer_haley",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_jojannik",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_lilitusinglemalt",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_cristelwalker",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_maggoallan",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:whiskey_carrasconlabel",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:mashed_potatoes",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:potato_salad",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:dumplings",
- 
-            "required": false
-        },
-        {
-            "id": "brewery:pretzel",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:strawberry",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:oat",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:croissant",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:crusty_bread",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:bread",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:baguette",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:toast",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:braided_bread",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:bun",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:vegetable_sandwich",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:strawberry_cake_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:sweetberry_cake_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:chocolate_cake_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:chocolate_gateau_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:bundt_cake_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:linzer_tart_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:apple_pie_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:glowberry_pie_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:chocolate_tart_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:pudding_slice",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:strawberry_glazed_cookie",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:sweetberry_glazed_cookie",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:chocolate_glazed_cookie",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:strawberry_cupcake",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:sweetberry_cupcake",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:apple_cupcake",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:jam_roll",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:cornet",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:waffle",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:misslilitu_biscuit",
- 
-            "required": false
-        },
-        {
-            "id": "bakery:chocolate_truffle",
- 
-            "required": false
-        },
-        {
-            "id": "ecologics:coconut_slice",
- 
-            "required": false
-        },
-        {
-            "id": "ecologics:prickly_pear",
- 
-            "required": false
-        },
-        {
-            "id": "ecologics:cooked_prickly_pear",
- 
-            "required": false
-        },
-        {
-            "id": "ecologics:walnut",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:baked_sweet_potato",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:peanut_butter",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:peanut_butter_sandwich",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:peanut_butter_honey_sandwich",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:sweet_berry_jelly_sandwich",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:glow_berry_jelly_sandwich",
- 
-            "required": false
-        },
-        {
-            "id": "#c:jams",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:peanut_salad",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:sweet_potato_salad",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:asparagus_soup",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:asparagus_soup_creamy",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:peanut_honey_soup",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:peperonata",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:sugar_cookie",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:chocolate_cookie",
- 
-            "required": false
-        },
-        {
-            "id": "expandeddelight:snickerdoodle",
-            "required": false
-       },
-       {
-           "id": "the_bumblezone:royal_jelly_bottle",
-
-           "required": false
-       }
-   ]
-}
+    "replace": false,
+    "values": [
+      {
+        "id": "#c:foods/berries",
+        "required": false
+      },
+      {
+        "id": "c:foods/vegetables",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:hot_cocoa",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:apple_cider",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:apple_juice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:melon_juice",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:sweet_berry_juice",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:glow_berry_juice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:tomato_sauce",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:wheat_dough",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:raw_pasta",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:pumpkin_slice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:cabbage_leaf",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:pie_crust",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:cake_slice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:apple_pie_slice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:sweet_berry_cheesecake_slice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:chocolate_pie_slice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:honey_cookie",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:sweet_berry_cookie",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:melon_popsicle",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:glow_berry_custard",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:fruit_salad",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:mixed_salad",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:nether_salad",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:dumplings",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:stuffed_potato",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:cabbage_rolls",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:kelp_roll",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:kelp_roll_slice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:cooked_rice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:vegetable_soup",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:fried_rice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:pumpkin_soup",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:mushroom_rice",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:vegetable_noodles",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:ratatouille",
+        "required": false
+      },
+      {
+        "id": "farmersdelight:stuffed_pumpkin",
+        "required": false
+      },
+      {
+        "id": "#c:crops",
+        "required": false
+      },
+      {
+        "id": "minecraft:apple",
+        "required": false
+      },
+      {
+        "id": "minecraft:golden_apple",
+        "required": false
+      },
+      {
+        "id": "minecraft:enchanted_golden_apple",
+        "required": false
+      },
+      {
+        "id": "minecraft:melon_slice",
+        "required": false
+      },
+      {
+        "id": "minecraft:chorus_fruit",
+        "required": false
+      },
+      {
+        "id": "minecraft:golden_carrot",
+        "required": false
+      },
+      {
+        "id": "minecraft:baked_potato",
+        "required": false
+      },
+      {
+        "id": "minecraft:poisonous_potato",
+        "required": false
+      },
+      {
+        "id": "minecraft:dried_kelp",
+        "required": false
+      },
+      {
+        "id": "minecraft:bread",
+        "required": false
+      },
+      {
+        "id": "minecraft:cookie",
+        "required": false
+      },
+      {
+        "id": "minecraft:pumpkin_pie",
+        "required": false
+      },
+      {
+        "id": "supplementaries:candy",
+        "required": false
+      },
+      {
+        "id": "minecraft:mushroom_stew",
+        "required": false
+      },
+      {
+        "id": "minecraft:beetroot_soup",
+        "required": false
+      },
+      {
+        "id": "the_bumblezone:sugar_water_bottle",
+        "required": false
+      },
+      {
+        "id": "vinery:cherry",
+        "required": false
+      },
+      {
+        "id": "vinery:rotten_cherry",
+        "required": false
+      },
+      {
+        "id": "#vinery:grape",
+        "required": false
+      },
+      {
+        "id": "vinery:apple_juice",
+        "required": false
+      },
+      {
+        "id": "#vinery:grapejuice",
+        "required": false
+      },
+      {
+        "id": "#vinery:wine",
+        "required": false
+      },
+      {
+        "id": "vinery:mead",
+        "required": false
+      },
+      {
+        "id": "brewery:hops",
+        "required": false
+      },
+      {
+        "id": "brewery:barley",
+        "required": false
+      },
+      {
+        "id": "brewery:corn",
+        "required": false
+      },
+      {
+        "id": "brewery:beer_wheat",
+        "required": false
+      },
+      {
+        "id": "brewery:beer_barley",
+        "required": false
+      },
+      {
+        "id": "brewery:beer_hops",
+        "required": false
+      },
+      {
+        "id": "brewery:beer_haley",
+        "required": false
+      },
+      {
+        "id": "brewery:whiskey_jojannik",
+        "required": false
+      },
+      {
+        "id": "brewery:whiskey_lilitusinglemalt",
+        "required": false
+      },
+      {
+        "id": "brewery:whiskey_cristelwalker",
+        "required": false
+      },
+      {
+        "id": "brewery:whiskey_maggoallan",
+        "required": false
+      },
+      {
+        "id": "brewery:whiskey_carrasconlabel",
+        "required": false
+      },
+      {
+        "id": "brewery:mashed_potatoes",
+        "required": false
+      },
+      {
+        "id": "brewery:potato_salad",
+        "required": false
+      },
+      {
+        "id": "brewery:dumplings",
+        "required": false
+      },
+      {
+        "id": "brewery:pretzel",
+        "required": false
+      },
+      {
+        "id": "bakery:strawberry",
+        "required": false
+      },
+      {
+        "id": "bakery:oat",
+        "required": false
+      },
+      {
+        "id": "bakery:croissant",
+        "required": false
+      },
+      {
+        "id": "bakery:crusty_bread",
+        "required": false
+      },
+      {
+        "id": "bakery:bread",
+        "required": false
+      },
+      {
+        "id": "bakery:baguette",
+        "required": false
+      },
+      {
+        "id": "bakery:toast",
+        "required": false
+      },
+      {
+        "id": "bakery:braided_bread",
+        "required": false
+      },
+      {
+        "id": "bakery:bun",
+        "required": false
+      },
+      {
+        "id": "bakery:vegetable_sandwich",
+        "required": false
+      },
+      {
+        "id": "bakery:strawberry_cake_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:sweetberry_cake_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:chocolate_cake_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:chocolate_gateau_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:bundt_cake_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:linzer_tart_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:apple_pie_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:glowberry_pie_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:chocolate_tart_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:pudding_slice",
+        "required": false
+      },
+      {
+        "id": "bakery:strawberry_glazed_cookie",
+        "required": false
+      },
+      {
+        "id": "bakery:sweetberry_glazed_cookie",
+        "required": false
+      },
+      {
+        "id": "bakery:chocolate_glazed_cookie",
+        "required": false
+      },
+      {
+        "id": "bakery:strawberry_cupcake",
+        "required": false
+      },
+      {
+        "id": "bakery:sweetberry_cupcake",
+        "required": false
+      },
+      {
+        "id": "bakery:apple_cupcake",
+        "required": false
+      },
+      {
+        "id": "bakery:jam_roll",
+        "required": false
+      },
+      {
+        "id": "bakery:cornet",
+        "required": false
+      },
+      {
+        "id": "bakery:waffle",
+        "required": false
+      },
+      {
+        "id": "bakery:misslilitu_biscuit",
+        "required": false
+      },
+      {
+        "id": "bakery:chocolate_truffle",
+        "required": false
+      },
+      {
+        "id": "ecologics:coconut_slice",
+        "required": false
+      },
+      {
+        "id": "ecologics:prickly_pear",
+        "required": false
+      },
+      {
+        "id": "ecologics:cooked_prickly_pear",
+        "required": false
+      },
+      {
+        "id": "ecologics:walnut",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:baked_sweet_potato",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:peanut_butter",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:peanut_butter_sandwich",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:peanut_butter_honey_sandwich",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:sweet_berry_jelly_sandwich",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:glow_berry_jelly_sandwich",
+        "required": false
+      },
+      {
+        "id": "#c:jams",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:peanut_salad",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:sweet_potato_salad",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:asparagus_soup",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:asparagus_soup_creamy",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:peanut_honey_soup",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:peperonata",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:sugar_cookie",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:chocolate_cookie",
+        "required": false
+      },
+      {
+        "id": "expandeddelight:snickerdoodle",
+        "required": false
+      },
+      {
+        "id": "the_bumblezone:royal_jelly_bottle",
+        "required": false
+      }
+    ]
+  }
