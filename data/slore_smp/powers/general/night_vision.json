@@ -1,10 +1,10 @@
 {
 	"name": "Tapetum Lucidum",
-	"description": "Raccoons have increased vision in the dark from their fur mask.",
+	"description": "You have night vision.",
     "type": "origins:stacking_status_effect",
     "min_stacks": 0,
     "max_stacks": 5,
-    "duration_per_stack": 20,
+    "duration_per_stack": 400,
     "effects": [{
             "effect": "minecraft:night_vision",
             "is_ambient": true,
