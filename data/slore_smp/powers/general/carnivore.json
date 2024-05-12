@@ -1,27 +1,27 @@
 {
-    "name": "Carnivore",
-    "description": "As a carnivore you can only eat meat and most meat derived foods.",
-    "type": "origins:prevent_item_use",
-    "item_condition": {
-      "type": "origins:and",
-      "conditions": [
-        {
-          "type": "origins:food"
+  "name": "Carnivore",
+  "description": "As a carnivore you can only eat meat and most meat derived foods.",
+  "type": "origins:prevent_item_use",
+  "item_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:food"
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "#slore_smp:carnivore_food"
         },
-        {
-          "type": "origins:ingredient",
-          "ingredient": {
-            "item": "#slore_smp:carnivore_food"
-          },
-          "inverted": true
+        "inverted": true
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "tag": "origins:ignore_diet"
         },
-        {
-          "type": "origins:ingredient",
-          "ingredient": {
-            "tag": "origins:ignore_diet"
-          },
-          "inverted": true
-        }
-      ]
-    }
+        "inverted": true
+      }
+    ]
   }
+}

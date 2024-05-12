@@ -1,6 +1,6 @@
 {
-"name": "Item Locator",
-"description": "You can use your primary to locate items that glow and are visible through walls for you",
+    "name": "Item Locator",
+    "description": "You can use your primary to locate items that glow and are visible through walls for you",
     "type": "origins:toggle",
     "active_by_default": false,
     "key": {

@@ -1,11 +1,11 @@
 {
 	"type": "origins:multiple",
 	"hastey": {
-	"type": "origins:modify_break_speed",
-	"modifier": {
-		"operation": "multiply_base",
-		"value": 2
-	}
+		"type": "origins:modify_break_speed",
+		"modifier": {
+			"operation": "multiply_base",
+			"value": 2
+		}
 	},
 	"speedey": {
 		"type": "origins:attribute",

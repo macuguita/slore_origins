@@ -1,8 +1,8 @@
 {
     "type": "origins:model_color",
     "alpha": 0.3,
-    "name":"Creeping Cap",
-    "description":"When creeping about, you become slightly transparent.",
+    "name": "Creeping Cap",
+    "description": "When creeping about, you become slightly transparent.",
     "condition": {
         "type": "origins:sneaking"
     }

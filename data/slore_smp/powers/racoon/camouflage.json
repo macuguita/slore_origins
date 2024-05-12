@@ -2,7 +2,8 @@
 	"type": "origins:active_self",
 	"entity_action": {
 		"type": "origins:apply_effect",
-				"effects": [{
+		"effects": [
+			{
 				"effect": "minecraft:invisibility",
 				"duration": 100,
 				"is_ambient": false,
@@ -26,5 +27,4 @@
 		"key": "key.origins.secondary_active",
 		"continuous": false
 	}
-
 }

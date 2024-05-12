@@ -1,6 +1,5 @@
-{   
- "type": "origins:creative_flight",
-
+{
+	"type": "origins:creative_flight",
 	"name": "Flight",
 	"description": "You have creative flight"
 }

@@ -1,11 +1,10 @@
 {
-     "type": "origins:action_over_time",
+    "type": "origins:action_over_time",
     "entity_action": {
-    "type": "origins:gain_air",
-    "value": 40
+        "type": "origins:gain_air",
+        "value": 40
     },
     "interval": 10,
-
-	"name": "Water breathing",
-	"description": "You breathe underwater."
+    "name": "Water breathing",
+    "description": "You breathe underwater."
 }

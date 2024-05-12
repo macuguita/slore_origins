@@ -5,7 +5,8 @@
     "min_stacks": 0,
     "max_stacks": 5,
     "duration_per_stack": 20,
-    "effects": [{
+    "effects": [
+        {
             "effect": "minecraft:strength",
             "is_ambient": true,
             "show_particles": false,

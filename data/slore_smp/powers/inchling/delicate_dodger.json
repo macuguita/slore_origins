@@ -1,22 +1,22 @@
 {
-    "name":"Delicate Dodger",
-    "description":"The Inchling's nimble form effortlessly evades nature's prickly defenses. Thorns and brambles pose no threat, and even the stickiest of cobwebs can't hinder their swift movement.",
-    "type":"origins:invulnerability",
-    "damage_condition":{
-       "type":"origins:or",
-       "conditions":[
-          {
-             "type":"origins:name",
-             "name":"cactus"
-          },
-          {
-             "type":"origins:name",
-             "name":"sweetBerryBush"
-          },
-          {
-             "type":"origins:name",
-             "name":"thorns"
-          }
-       ]
-    }
+   "name": "Delicate Dodger",
+   "description": "The Inchling's nimble form effortlessly evades nature's prickly defenses. Thorns and brambles pose no threat, and even the stickiest of cobwebs can't hinder their swift movement.",
+   "type": "origins:invulnerability",
+   "damage_condition": {
+      "type": "origins:or",
+      "conditions": [
+         {
+            "type": "origins:name",
+            "name": "cactus"
+         },
+         {
+            "type": "origins:name",
+            "name": "sweetBerryBush"
+         },
+         {
+            "type": "origins:name",
+            "name": "thorns"
+         }
+      ]
+   }
 }

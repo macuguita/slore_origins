@@ -4,7 +4,7 @@
     "active_by_default": true,
     "type": "origins:toggle_night_vision",
     "strength": 0.7,
-    "key":{
-        "key":"key.origins.primary_active"
+    "key": {
+        "key": "key.origins.primary_active"
     }
 }

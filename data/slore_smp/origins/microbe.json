@@ -1,5 +1,5 @@
 {
-    "unchoosable": true,
+	"unchoosable": true,
 	"name": "Microbe",
 	"powers": [
 		"slore_smp:microbe/microbe"

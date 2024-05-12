@@ -1,7 +1,6 @@
 {
-
     "name": "Moist Mycelium",
-    "description":"Mushrooms spend their time in wet environments. As an uprooted mushroom, you can navigate the wet better and longer.",
+    "description": "Mushrooms spend their time in wet environments. As an uprooted mushroom, you can navigate the wet better and longer.",
     "type": "origins:modify_swim_speed",
     "modifier": {
         "operation": "addition",

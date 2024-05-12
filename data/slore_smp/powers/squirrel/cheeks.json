@@ -1,10 +1,10 @@
 {
-    "name": "Cheeks",
-    "description": "You can store stuff on your cheeks.",
-    "type": "origins:inventory",
-    "drop_on_death": false,
-    "key": {
-      "key": "key.origins.secondary_active",
-      "continuous": false
-    }
+  "name": "Cheeks",
+  "description": "You can store stuff on your cheeks.",
+  "type": "origins:inventory",
+  "drop_on_death": false,
+  "key": {
+    "key": "key.origins.secondary_active",
+    "continuous": false
   }
+}

@@ -3,10 +3,10 @@
   "description": "You can only eat carrots and most foods derived from carrots.",
   "type": "origins:prevent_item_use",
   "item_condition": {
-      "type": "origins:ingredient",
-      "ingredient": {
-          "tag": "slore_smp:carrots"
-      },
-      "inverted": true
+    "type": "origins:ingredient",
+    "ingredient": {
+      "tag": "slore_smp:carrots"
+    },
+    "inverted": true
   }
 }

@@ -1,8 +1,8 @@
 {
 	"powers": [
-		"slore_smp:inchling/inchling_ascendancy",
 		"slore_smp:sizes/0_5_blocks",
 		"slore_smp:inchling/companion_mounter",
+		"origins:climbing",
 		"slore_smp:inchling/silent_stride",
 		"slore_smp:inchling/efficient_metabolism",
 		"slore_smp:inchling/sugar_fueled_frenzy",

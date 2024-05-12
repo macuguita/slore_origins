@@ -1,6 +1,6 @@
 {
-    "name": "Strong legs",
-    "description": "You have strong legs and take considerably less fall damage.",
+	"name": "Strong legs",
+	"description": "You have strong legs and take considerably less fall damage.",
 	"type": "origins:multiple",
 	"cancel": {
 		"type": "origins:modify_damage_taken",

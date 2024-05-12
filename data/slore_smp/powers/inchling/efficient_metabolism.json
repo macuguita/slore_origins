@@ -2,15 +2,15 @@
     "name": "Efficient Metabolism",
     "description": "The Inchling's compact physiology conserves energy with remarkable efficiency, reducing their need for frequent sustenance. However, the exertion of sprinting or swimming, given their size and the greater distances covered, accelerates their hunger, demanding a careful balance of speed and endurance.",
     "type": "origins:multiple",
-    "decreased_exhaustion":{
+    "decreased_exhaustion": {
         "type": "origins:modify_exhaustion",
         "modifier": {
-          "operation": "multiply_base",
-          "value": -0.75,
-          "name": "Exhaustion Decreased"
+            "operation": "multiply_base",
+            "value": -0.75,
+            "name": "Exhaustion Decreased"
         }
     },
-    "increased_exhaustion_when_sprinting":{
+    "increased_exhaustion_when_sprinting": {
         "type": "origins:exhaust",
         "interval": 20,
         "exhaustion": 4.0,
@@ -20,7 +20,7 @@
                 {
                     "type": "origins:sprinting"
                 },
-                {    
+                {
                     "type": "origins:submerged_in",
                     "fluid": "minecraft:water"
                 }

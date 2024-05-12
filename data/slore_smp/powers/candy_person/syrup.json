@@ -21,20 +21,20 @@
         "amount": 1
     },
     "entity_action": {
-		"type": "origins:and",
-		"actions": [
-		{
-        "type": "origins:play_sound",
-        "sound": "minecraft:entity.villager.work_cleric",
-        "volume": 1,
-        "pitch": 2
-		},
-		{
-			"type": "origins:execute_command",
-			"command": "give @s potion{Potion:\"minecraft:swiftness\"} 1"
-		}
-		]
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:play_sound",
+                "sound": "minecraft:entity.villager.work_cleric",
+                "volume": 1,
+                "pitch": 2
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "give @s potion{Potion:\"minecraft:swiftness\"} 1"
+            }
+        ]
     },
-	"name": "Special Syrup",
-	"description": "You can use a sugar on a bottle of honey in your inventory to create a potion of swiftness."
+    "name": "Special Syrup",
+    "description": "You can use a sugar on a bottle of honey in your inventory to create a potion of swiftness."
 }

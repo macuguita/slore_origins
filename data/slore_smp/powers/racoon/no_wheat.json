@@ -3,9 +3,9 @@
   "description": "As a racoon you cannot eat any food derived from wheat.",
   "type": "origins:prevent_item_use",
   "item_condition": {
-      "type": "origins:ingredient",
-      "ingredient": {
-          "tag": "slore_smp:wheat"
-      }
+    "type": "origins:ingredient",
+    "ingredient": {
+      "tag": "slore_smp:wheat"
+    }
   }
 }

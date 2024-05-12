@@ -2,8 +2,7 @@
     "name": "Longer breath",
     "description": "You have a natural turtle helmet.",
     "type": "origins:stacking_status_effect",
-    "condition":
-    {
+    "condition": {
         "inverted": true,
         "type": "origins:submerged_in",
         "fluid": "water"
@@ -12,8 +11,7 @@
     "max_stacks": 1,
     "duration_per_stack": 215,
     "tick_rate": 10,
-    "effect":
-    {
+    "effect": {
         "effect": "water_breathing",
         "duration": 0,
         "amplifier": 0,

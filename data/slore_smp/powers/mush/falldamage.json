@@ -1,6 +1,6 @@
 {
-    "name":"Lightweight",
-    "description":"Due to your light body, you don't take fall damage.",
+    "name": "Lightweight",
+    "description": "Due to your light body, you don't take fall damage.",
     "type": "origins:modify_falling",
     "velocity": 0.07,
     "take_fall_damage": false

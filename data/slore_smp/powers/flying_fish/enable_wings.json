@@ -11,9 +11,8 @@
             }
         ]
     },
-      "key": {
+    "key": {
         "key": "key.saveToolbarActivator",
         "continuous": false
     }
-  }
-  
+}

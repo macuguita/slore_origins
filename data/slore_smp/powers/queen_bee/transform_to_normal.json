@@ -11,9 +11,8 @@
             }
         ]
     },
-      "key": {
+    "key": {
         "key": "key.origins.secondary_active",
         "continuous": false
     }
-  }
-  
+}

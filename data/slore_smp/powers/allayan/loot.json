@@ -1,12 +1,12 @@
 {
-"hidden": true,
+    "hidden": true,
     "type": "origins:entity_glow",
     "entity_condition": {
-    "type": "origins:entity_type",
-    "entity_type": "minecraft:item"
-},
-"condition": {
-    "type": "origins:power_active",
-    "power": "aly:loot2"
-}
+        "type": "origins:entity_type",
+        "entity_type": "minecraft:item"
+    },
+    "condition": {
+        "type": "origins:power_active",
+        "power": "aly:loot2"
+    }
 }

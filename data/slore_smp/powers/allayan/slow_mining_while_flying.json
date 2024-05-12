@@ -1,12 +1,12 @@
-{   
-"hidden": true,
- "type": "origins:action_over_time",
+{
+    "hidden": true,
+    "type": "origins:action_over_time",
     "entity_action": {
         "type": "origins:execute_command",
         "command": "effect give @s mining_fatigue 1 3 true"
     },
     "interval": 20,
- "condition": {
-    "type": "origins:creative_flying"
-} 
+    "condition": {
+        "type": "origins:creative_flying"
+    }
 }

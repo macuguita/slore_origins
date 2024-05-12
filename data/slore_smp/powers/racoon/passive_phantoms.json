@@ -47,7 +47,9 @@
             ]
         },
         "cooldown": 0,
-        "hud_render": { "should_render": false }
+        "hud_render": {
+            "should_render": false
+        }
     },
     "name": "Passive Phantoms",
     "description": "Phantoms will not become aggressive towards you, unless you attack them."
