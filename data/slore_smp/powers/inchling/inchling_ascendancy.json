@@ -1,81 +1,53 @@
 {
 	"name": "Inchling Ascendancy",
 	"description": "Drawing from their innate connection to the tiniest crevices and surfaces, Inchlings have evolved a swift and seamless climbing technique which allows them to glide up vertical terrains with the grace and speed of a wall runner. [Primary]",
-    "type": "origins:multiple",
-    "toggle": {
-        "type": "origins:toggle",
-        "active_by_default": false,
-        "key": {
-            "key": "key.origins.primary_active"
-        },
-		"retain_state": true
-    },
-    "wall_run": {
-		"type": "origins:action_over_time",
-		"entity_action": {
-			"type": "origins:and",
-			"actions": [
-				{
-					"type":"origins:apply_effect",
-					"effect":{
-					   "effect":"minecraft:levitation",
-					   "duration":2,
-					   "amplifier":-1,
-					   "is_ambient":false,
-					   "show_particles":false,
-					   "show_icon":false
-					}
-				},
-				{    
-					"type":"origins:add_velocity",
-					"x": 0.0,
-					"y": 0.0,
-					"z":0.05,
-					"space":"local",
-					"client": true,
-					"server": true,
-					"set":false
-				}
-			]
-		},
-		"falling_action": {
-			"type":"origins:clear_effect",
-			"effect":"minecraft:levitation"
-		},
-		"interval": 1,
-		"condition": {
-			"type": "origins:and",
+	"type": "origins:multiple",
+	"toggle": {
+	  "type": "origins:toggle",
+	  "key": {
+		"key": "key.origins.primary_active",
+		"continuous": false
+	  }
+	},
+	"climbing": {
+	  "type": "origins:climbing",
+	  "hold_condition": {
+		"type": "origins:and",
+		"conditions": [
+		  {
+			"type": "origins:or",
 			"conditions": [
-				{
-					"type": "origins:power_active",
-					"power": "improved_inchling:inchling_ascendancy_toggle"
-				},
-				{
-					"type":"origins:on_block",
-					"inverted":true
-				},
-				{      
-					"type": "origins:or",
-					"conditions": [
-						{
-							"type":"origins:block_collision",
-							"offset_x":0.1,
-							"offset_z":0.1,
-							"offset_y":0,
-							"inverted":false
-						 },
-						 {
-							"type":"origins:block_collision",
-							"offset_x":-0.1,
-							"offset_z":-0.1,
-							"offset_y":0,
-							"inverted":false
-						 }
-					],
-					"inverted": false
-				}
+			  {
+				"type": "origins:block_collision",
+				"offset_x": 0.01,
+				"offset_z": 0.01,
+				"offset_y": 0
+			  },
+			  {
+				"type": "origins:block_collision",
+				"offset_x": -0.01,
+				"offset_z": -0.01,
+				"offset_y": 0
+			  }
 			]
-		}
-    }
-
-}
+		  },
+		  {
+			"type": "origins:power_active",
+			"power": "*:*_toggle"
+		  }
+		]
+	  },
+	  "condition": {
+		"type": "origins:and",
+		"conditions": [
+		  {
+			"type": "origins:collided_horizontally"
+		  },
+		  {
+			"type": "origins:power_active",
+			"power": "*:*_toggle"
+		  }
+		]
+	  }
+	}
+  }
