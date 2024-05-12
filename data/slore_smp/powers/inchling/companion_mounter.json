@@ -1,0 +1,16 @@
+{
+    "name": "Companion Mounter",
+    "description": "Inchlings can mount and ride other players and entities. Whether seeking a vantage point, swift transport, or simply bonding with allies. [Right Click On Entity]",
+    "type": "origins:action_on_entity_use",
+    "bientity_action": {
+        "type": "origins:mount"
+    },
+    "item_condition": {
+        "type": "origins:empty"
+    },
+    "hands": [
+        "main_hand"
+    ],
+    "action_result":"success",
+    "priority":0
+}

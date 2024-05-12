@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"slore_smp:inchling/inchling_ascendancy",
+		"slore_smp:sizes/0_5_blocks",
+		"slore_smp:inchling/companion_mounter",
+		"slore_smp:inchling/silent_stride",
+		"slore_smp:inchling/efficient_metabolism",
+		"slore_smp:inchling/sugar_fueled_frenzy",
+		"slore_smp:inchling/featherlight_glide",
+		"slore_smp:inchling/nimble_nature",
+		"slore_smp:inchling/delicate_dodger",
+		"slore_smp:inchling/fragile_bones",
+		"slore_smp:inchling/slow_miner",
+		"slore_smp:inchling/delicate_swimmer",
+		"slore_smp:inchling/burdened_armor"
+	],
+	"icon": "minecraft:anvil",
+	"order": 10,
+	"impact": 3,
+	"name": "Inchling",
+	"description": "Tiny and agile, Inchlings navigate the world with unmatched stealth and vertical prowess. Their delicate frame and unique metabolism offer both advantages and challenges. From effortlessly evading nature's obstacles to experiencing intense sugar rushes, Inchlings tread a fine line between nimble advantages and vulnerable limitations."
+}

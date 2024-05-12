@@ -1,0 +1,14 @@
+{
+    "name": "Slow Miner",
+    "description": "Their small stature makes mining slower for Inchlings.",
+    "type": "origins:modify_break_speed",
+    "block_condition": {
+        "type": "origins:hardness",
+        "comparison": ">",
+        "compare_to": 0.0
+    },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.6
+    }
+}

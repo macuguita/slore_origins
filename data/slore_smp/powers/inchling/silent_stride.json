@@ -1,0 +1,9 @@
+{
+    "name": "Silent Stride",
+    "description": "The Inchling's delicate and lightweight frame grants them the unique ability of moving with such quietness and precision, they become undetectable to Sculk Sensors.",
+    "type": "origins:prevent_game_event",
+    "events":[
+        "minecraft:step",
+        "minecraft:hit_ground"
+    ]
+}
