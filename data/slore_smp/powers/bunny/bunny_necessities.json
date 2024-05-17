@@ -1,12 +1,27 @@
 {
   "name": "Bunny Necessities",
-  "description": "You can only eat carrots and most foods derived from carrots.",
+  "description": "As a bunny you can only eat carrots and carrot derived dishes.",
   "type": "origins:prevent_item_use",
   "item_condition": {
-    "type": "origins:ingredient",
-    "ingredient": {
-      "tag": "slore_smp:carrots"
-    },
-    "inverted": true
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:food"
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "item": "#slore_smp:carrots"
+        },
+        "inverted": true
+      },
+      {
+        "type": "origins:ingredient",
+        "ingredient": {
+          "tag": "origins:ignore_diet"
+        },
+        "inverted": true
+      }
+    ]
   }
 }
