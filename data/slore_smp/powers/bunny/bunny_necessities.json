@@ -11,7 +11,7 @@
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "#slore_smp:carrots"
+          "tag": "slore_smp:carrots"
         },
         "inverted": true
       },

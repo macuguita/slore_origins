@@ -15,10 +15,6 @@
             },
             {
                 "type": "origins:execute_command",
-                "command": "scale set pehkui:motion 1.1 @s"
-            },
-            {
-                "type": "origins:execute_command",
                 "command": "scale set pehkui:reach 1 @s"
             },
             {

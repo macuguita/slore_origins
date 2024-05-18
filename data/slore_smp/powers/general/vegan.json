@@ -11,7 +11,7 @@
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "#slore_smp:vegan_food"
+          "tag": "slore_smp:vegan_food"
         },
         "inverted": true
       },

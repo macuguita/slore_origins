@@ -12,7 +12,7 @@
         ]
     },
     "key": {
-        "key": "key.saveToolbarActivator",
+        "key": "key.origins.secondary_active",
         "continuous": false
     }
 }

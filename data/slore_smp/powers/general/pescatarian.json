@@ -11,7 +11,7 @@
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "#slore_smp:pescatarian_food"
+          "tag": "slore_smp:pescatarian_food"
         },
         "inverted": true
       },

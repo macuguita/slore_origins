@@ -11,7 +11,7 @@
       {
         "type": "origins:ingredient",
         "ingredient": {
-          "item": "#slore_smp:carnivore_food"
+          "tag": "slore_smp:carnivore_food"
         },
         "inverted": true
       },
