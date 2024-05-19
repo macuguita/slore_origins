@@ -14,9 +14,6 @@
                       "ingredient": {
                           "tag": "slore_smp:pescatarian_food"
                       }
-                  },
-                  {
-                      "type": "slore_smp:pescatarian_food"
                   }
               ]
           },

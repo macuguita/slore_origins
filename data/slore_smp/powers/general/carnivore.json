@@ -14,9 +14,6 @@
                       "ingredient": {
                           "tag": "slore_smp:carnivore_food"
                       }
-                  },
-                  {
-                      "type": "slore_smp:carnivore_food"
                   }
               ]
           },
