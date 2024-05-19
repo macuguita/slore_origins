@@ -1,27 +1,35 @@
 {
   "name": "Pescatarian",
-  "description": "As a pescatarian you can only eat fishes and most fish derived foods.",
+  "description": "You can only eat fish and most fish derived dishes.",
   "type": "origins:prevent_item_use",
   "item_condition": {
-    "type": "origins:and",
-    "conditions": [
-      {
-        "type": "origins:food"
-      },
-      {
-        "type": "origins:ingredient",
-        "ingredient": {
-          "tag": "slore_smp:pescatarian_food"
-        },
-        "inverted": true
-      },
-      {
-        "type": "origins:ingredient",
-        "ingredient": {
-          "tag": "origins:ignore_diet"
-        },
-        "inverted": true
-      }
-    ]
+      "type": "origins:and",
+      "conditions": [
+          {
+              "inverted": true,
+              "type": "origins:or",
+              "conditions": [
+                  {
+                      "type": "origins:ingredient",
+                      "ingredient": {
+                          "tag": "slore_smp:pescatarian_food"
+                      }
+                  },
+                  {
+                      "type": "slore_smp:pescatarian_food"
+                  }
+              ]
+          },
+          {
+              "type": "origins:food"
+          },
+          {
+              "inverted": true,
+              "type": "origins:ingredient",
+              "ingredient": {
+                  "tag": "origins:ignore_diet"
+              }
+          }
+      ]
   }
 }

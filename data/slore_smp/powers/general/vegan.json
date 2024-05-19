@@ -1,27 +1,35 @@
 {
   "name": "Vegan",
-  "description": "As a vegan you can only eat plants and most plant derived foods.",
+  "description": "You can only eat plants and most plant derived dishes.",
   "type": "origins:prevent_item_use",
   "item_condition": {
-    "type": "origins:and",
-    "conditions": [
-      {
-        "type": "origins:food"
-      },
-      {
-        "type": "origins:ingredient",
-        "ingredient": {
-          "tag": "slore_smp:vegan_food"
-        },
-        "inverted": true
-      },
-      {
-        "type": "origins:ingredient",
-        "ingredient": {
-          "tag": "origins:ignore_diet"
-        },
-        "inverted": true
-      }
-    ]
+      "type": "origins:and",
+      "conditions": [
+          {
+              "inverted": true,
+              "type": "origins:or",
+              "conditions": [
+                  {
+                      "type": "origins:ingredient",
+                      "ingredient": {
+                          "tag": "slore_smp:vegan_food"
+                      }
+                  },
+                  {
+                      "type": "slore_smp:vegan_food"
+                  }
+              ]
+          },
+          {
+              "type": "origins:food"
+          },
+          {
+              "inverted": true,
+              "type": "origins:ingredient",
+              "ingredient": {
+                  "tag": "origins:ignore_diet"
+              }
+          }
+      ]
   }
 }
