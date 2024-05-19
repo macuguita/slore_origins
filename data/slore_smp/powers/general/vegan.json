@@ -6,26 +6,21 @@
       "type": "origins:and",
       "conditions": [
           {
-              "inverted": true,
-              "type": "origins:or",
-              "conditions": [
-                  {
-                      "type": "origins:ingredient",
-                      "ingredient": {
-                          "tag": "slore_smp:vegan_food"
-                      }
-                  }
-              ]
-          },
-          {
               "type": "origins:food"
           },
           {
-              "inverted": true,
+              "type": "origins:ingredient",
+              "ingredient": {
+                  "tag": "slore_smp:vegan_food"
+              },
+              "inverted": true
+          },
+          {
               "type": "origins:ingredient",
               "ingredient": {
                   "tag": "origins:ignore_diet"
-              }
+              },
+              "inverted": true
           }
       ]
   }
