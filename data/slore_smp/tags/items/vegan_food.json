@@ -6,7 +6,7 @@
         "required": false
       },
       {
-        "id": "c:foods/vegetables",
+        "id": "#c:foods/vegetables",
         "required": false
       },
       {
