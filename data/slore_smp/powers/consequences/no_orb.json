@@ -1,0 +1,16 @@
+{
+    "name": "Gambling has consequences",
+    "description": "Gambling has consequences so you can't change your origin",
+    "type": "origins:multiple",
+    "swords_only": {
+        "type": "origins:prevent_item_use",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": [
+                {
+                    "item": "origins:orb_of_origin"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"slore_smp:sizes/4_blocks",
+		"slore_smp:consequences/no_orb",
+		"slore_smp:consequences/picky"
+	],
+	"icon": "minecraft:raw_gold",
+	"order": 10,
+	"impact": 2,
+	"name": "Consequences",
+	"description": "Gambling has consequences.",
+	"unchoosable": true
+}
