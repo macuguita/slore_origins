@@ -26,6 +26,7 @@
     "slore_smp:sharkling",
     "slore_smp:squirrel",
     "slore_smp:turtle",
-    "slore_smp:inchling"
+    "slore_smp:inchling",
+    "slore_smp:admin/consequences"
   ]
 }
