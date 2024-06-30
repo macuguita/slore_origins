@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"slore_smp:wings/black_feathered_wings",
+		"slore_smp:sizes/0_5_blocks",
+		"slore_smp:general/no_food",
+		"origins:fall_immunity",
+		"slore_smp:vampire/skin",
+		"slore_smp:vampire/transform_back"
+	],
+	"icon": "minecraft:redstone",
+	"order": 1,
+	"impact": 3,
+	"name": "Vampire bat",
+	"descripticvon": "Vampire origin made by macuguita.",
+	"unchoosable": true
+}

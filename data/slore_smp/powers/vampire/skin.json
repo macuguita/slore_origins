@@ -1,0 +1,9 @@
+{
+    "name": "Dark",
+    "description": "You are dark like a bat.",
+    "type": "origins:model_color",
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 1
+}

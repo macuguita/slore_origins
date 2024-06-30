@@ -1,0 +1,15 @@
+{
+    "powers": [
+	"slore_smp:wings/brown_feathered_wings",
+	"slore_smp:griffin/large_feet",
+	"slore_smp:sizes/3_blocks",
+	"slore_smp:general/carnivore",
+	"slore_smp:griffin/precious",
+	"slore_smp:griffin/starting_item"
+	],
+	"icon": "minecraft:gold_ingot",
+    "order": 3,
+    "impact": 2,
+    "name": "Griffin",
+    "description": "The mighty Griffin is half bird half lion."
+}

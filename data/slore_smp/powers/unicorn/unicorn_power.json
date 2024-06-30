@@ -1,0 +1,10 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "function slore_smp:unicorn_power"
+    },
+    "interval": 180,
+	"name": "Unicorn Power",
+    "description": "The holiness of the unicorn gives you regeneration."
+}

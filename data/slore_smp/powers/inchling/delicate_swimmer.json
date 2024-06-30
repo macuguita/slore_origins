@@ -1,9 +1,0 @@
-{
-    "name": "Delicate Swimmer",
-    "description": "Water currents are more challenging for Inchlings due to their lightweight nature; thus, they have more difficulty swimming.",
-    "type": "origins:prevent_sprinting",
-    "condition": {
-        "type": "origins:submerged_in",
-        "fluid": "minecraft:water"
-    }
-}

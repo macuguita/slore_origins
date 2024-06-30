@@ -2,16 +2,22 @@
   "replace": false,
   "origins": [
     "slore_smp:admin/consequences",
-    "slore_smp:bug",
     "slore_smp:bunny",
-    "slore_smp:dragon",
     "slore_smp:dragon_nowing",
+    "slore_smp:dragon",
     "slore_smp:duck",
-    "slore_smp:flying_fish",
+    "slore_smp:dwarf",
     "slore_smp:flying_fish_nowing",
+    "slore_smp:flying_fish",
+    "slore_smp:frostmaw",
+    "slore_smp:griffin",
+    "slore_smp:hydra",
     "slore_smp:llamaborn",
-    "slore_smp:mush",
+    "slore_smp:moth",
+    "slore_smp:mushling",
     "slore_smp:sculked",
-    "slore_smp:inchling"
+    "slore_smp:unicorn",
+    "slore_smp:vampire_bat",
+    "slore_smp:vampire"
   ]
 }

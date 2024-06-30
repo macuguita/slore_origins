@@ -1,0 +1,13 @@
+{
+    "powers": [
+	"slore_smp:unicorn/sharp_horn",
+	"slore_smp:unicorn/unicorn_power",
+	"slore_smp:unicorn/loving",
+	"slore_smp:general/vegan"
+	],
+	"icon": "minecraft:end_rod",
+    "order": 3,
+    "impact": 2,
+    "name": "Unicorn",
+    "description": "Ancient Species hidden away in another plain finally reaches home after thousands of years."
+}

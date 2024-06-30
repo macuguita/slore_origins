@@ -1,0 +1,10 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "function slore_smp:fire_weakness"
+    },
+    "interval": 1,
+	"name": "Fire Weakness",
+    "description": "The hydra was defeated with fire and has now become very afraid."
+}

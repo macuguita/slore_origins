@@ -1,0 +1,15 @@
+{
+    "powers": [
+	"slore_smp:dwarf/edible_coal",
+	"slore_smp:dwarf/strong",
+	"slore_smp:dwarf/tough_hands",
+	"slore_smp:sizes/1_block",
+	"slore_smp:health/2_less_hearts",
+	"slore_smp:dwarf/cave_dweller"
+	],
+	"icon": "minecraft:stone_pickaxe",
+    "order": 3,
+    "impact": 2,
+    "name": "Dwarf",
+    "description": "The dwarves are an ancient race of miners."
+}

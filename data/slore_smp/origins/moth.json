@@ -1,6 +1,6 @@
 {
 	"powers": [
-		"origins:elytra",
+		"slore_smp:wings/light_gray_feathered_wings",
 		"slore_smp:general/small_boost",
 		"slore_smp:general/vegan",
 		"slore_smp:sizes/0_75_blocks",
@@ -11,6 +11,6 @@
 	"icon": "minecraft:black_candle",
 	"order": 1,
 	"impact": 2,
-	"name": "Bug",
-	"description": "Bug origin made by macuguita."
+	"name": "Moth",
+	"description": "Moth origin made by macuguita."
 }
