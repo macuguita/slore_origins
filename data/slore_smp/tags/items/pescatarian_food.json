@@ -6,66 +6,6 @@
         "required": false
       },
       {
-        "id": "#c:foods/cooked_fishes",
-        "required": false
-      },
-      {
-        "id": "#c:foods/raw_fishes",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:cod_roll",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:baked_cod_stew",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:salmon_roll",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:grilled_salmon",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:squid_ink_pasta",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:fish_stew",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:cabbage_rolls",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:barbecue_stick",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:honey_glazed_ham",
-        "required": false
-      },
-      {
-        "id": "expandeddelight:peanut_butter_honey_sandwich",
-        "required": false
-      },
-      {
-        "id": "expandeddelight:peanut_honey_soup",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:honey_cookie",
-        "required": false
-      },
-      {
-        "id": "the_bumblezone:royal_jelly_bottle",
-        "required": false
-      },
-      {
         "id": "#vinery:grapejuice",
         "required": false
       },

@@ -1,11 +1,10 @@
 {
 	"powers": [
-		"slore_smp:sizes/4_blocks",
 		"slore_smp:consequences/no_orb",
 		"slore_smp:consequences/picky",
+		"slore_smp:consequences/tiny_as_a_coin",
 		"slore_smp:health/6_less_hearts",
-		"origins:water_vulnerability",
-		"origins:water_breathing"
+		"origins:water_vulnerability"
 	],
 	"icon": "minecraft:raw_gold",
 	"order": 10,

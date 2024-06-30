@@ -18,42 +18,6 @@
         "required": false
       },
       {
-        "id": "farmersdelight:vegetable_noodles",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:vegetable_soup",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:fried_rice",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:mushroom_rice",
-        "required": false
-      },
-      {
-        "id": "expandeddelight:peperonata",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:stuffed_pumpkin",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:ratatouille",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:cabbage_rolls",
-        "required": false
-      },
-      {
-        "id": "the_bumblezone:royal_jelly_bottle",
-        "required": false
-      },
-      {
         "id": "#vinery:grapejuice",
         "required": false
       },
@@ -95,6 +59,14 @@
       },
       {
         "id": "brewery:whiskey_carrasconlabel",
+        "required": false
+      },
+      {
+        "id": "candlelight:lettuce_tomato",
+        "required": false
+      },
+      {
+        "id": "candlelight:roastbeef_carrots",
         "required": false
       }
     ]

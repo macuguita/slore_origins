@@ -1,7 +1,0 @@
-{
-    "name": "Royal neccessities",
-    "description": "The queen bee is too big for a bed.",
-    "type": "origins:prevent_sleep",
-    "message": "You cannot sleep, this bed is not good enough for a monarch.",
-    "set_spawn_point": true
-}

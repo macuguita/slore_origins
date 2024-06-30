@@ -148,6 +148,42 @@
       {
         "id": "bakery:bread",
         "required": false
+      },
+      {
+        "id": "natures_spirit:whole_pizza",
+        "required": false
+      },
+      {
+        "id": "clutter:kiwi_pie",
+        "required": false
+      },
+      {
+        "id": "clutter:cherry_pie",
+        "required": false
+      },
+      {
+        "id": "candlelight:dough",
+        "required": false
+      },
+      {
+        "id": "meadow:cheesecake",
+        "required": false
+      },
+      {
+        "id": "meadow:cheese_tart",
+        "required": false
+      },
+      {
+        "id": "candlelight:beef_wellington",
+        "required": false
+      },
+      {
+        "id": "candlelight:pancake",
+        "required": false
+      },
+      {
+        "id": "candlelight:pasta_raw",
+        "required": false
       }
     ]
   }

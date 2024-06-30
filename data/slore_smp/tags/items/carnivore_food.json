@@ -2,26 +2,6 @@
   "replace": false,
   "values": [
     {
-      "id": "farmersdelight:cod_slice",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:cooked_cod_slice",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:salmon_slice",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:cooked_salmon_slice",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:bacon_and_eggs",
-      "required": false
-    },
-    {
       "id": "minecraft:rotten_flesh",
       "required": false
     },
@@ -42,7 +22,27 @@
       "required": false
     },
     {
+      "id": "minecraft:beef",
+      "required": false
+    },
+    {
+      "id": "minecraft:porkchop",
+      "required": false
+    },
+    {
+      "id": "minecraft:mutton",
+      "required": false
+    },
+    {
+      "id": "minecraft:chicken",
+      "required": false
+    },
+    {
       "id": "minecraft:rabbit",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_chicken",
       "required": false
     },
     {
@@ -54,7 +54,19 @@
       "required": false
     },
     {
+      "id": "minecraft:cooked_porkchop",
+      "required": false
+    },
+    {
       "id": "minecraft:cooked_cod",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_beef",
+      "required": false
+    },
+    {
+      "id": "minecraft:cooked_mutton",
       "required": false
     },
     {
@@ -66,139 +78,11 @@
       "required": false
     },
     {
-      "id": "#c:foods/cooked_meats",
-      "required": false
-    },
-    {
-      "id": "#c:foods/raw_meats",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:ham",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:smoked_ham",
-      "required": false
-    },
-    {
-      "id": "naturalist:duck",
-      "required": false
-    },
-    {
-      "id": "naturalist:cooked_duck",
-      "required": false
-    },
-    {
-      "id": "naturalist:lizard_tail",
-      "required": false
-    },
-    {
-      "id": "naturalist:cooked_lizard_tail",
-      "required": false
-    },
-    {
-      "id": "naturalist:catfish",
-      "required": false
-    },
-    {
-      "id": "naturalist:cooked_catfish",
-      "required": false
-    },
-    {
-      "id": "naturalist:bass",
-      "required": false
-    },
-    {
-      "id": "naturalist:cooked_bass",
-      "required": false
-    },
-    {
       "id": "brewery:pork_knuckle",
       "required": false
     },
     {
       "id": "brewery:sausage",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:bacon_sandwich",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:barbecue_stick",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:beef_stew",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:bone_broth",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:chicken_sandwich",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:chicken_soup",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:cod_roll",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:dog_food",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:dumplings",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:egg_sandwich",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:fish_stew",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:grilled_salmon",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:hamburger",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:honey_glazed_ham",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:mutton_wrap",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:pasta_with_meatballs",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:pasta_with_mutton_chop",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:roast_chicken",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:roasted_mutton_chops",
-      "required": false
-    },
-    {
-      "id": "farmersdelight:steak_and_potatoes",
       "required": false
     },
     {
@@ -243,6 +127,90 @@
     },
     {
       "id": "brewery:whiskey_carrasconlabel",
+      "required": false
+    },
+    {
+      "id": "candlelight:bolognese",
+      "required": false
+    },
+    {
+      "id": "candlelight:chicken_teriyaki",
+      "required": false
+    },
+    {
+      "id": "candlelight:beef_tartare",
+      "required": false
+    },
+    {
+      "id": "candlelight:fricasse",
+      "required": false
+    },
+    {
+      "id": "candlelight:cooked_beef",
+      "required": false
+    },
+    {
+      "id": "candlelight:pork_ribs",
+      "required": false
+    },
+    {
+      "id": "candlelight:roastbeef_carrots",
+      "required": false
+    },
+    {
+      "id": "candlelight:lettuce_beef",
+      "required": false
+    },
+    {
+      "id": "candlelight:tropical_fish_supreme",
+      "required": false
+    },
+    {
+      "id": "candlelight:salmon_wine",
+      "required": false
+    },
+    {
+      "id": "candlelight:chicken_alfredo",
+      "required": false
+    },
+    {
+      "id": "candlelight:chicken",
+      "required": false
+    },
+    {
+      "id": "candlelight:beef_wellington",
+      "required": false
+    },
+    {
+      "id": "meadow:raw_buffalo_meat",
+      "required": false
+    },
+    {
+      "id": "meadow:cooked_buffalo_meat",
+      "required": false
+    },
+    {
+      "id": "meadow:roasted_ham",
+      "required": false
+    },
+    {
+      "id": "meadow:sausage_with_cheese",
+      "required": false
+    },
+    {
+      "id": "clutter:raw_venison",
+      "required": false
+    },
+    {
+      "id": "clutter:cooked_venison",
+      "required": false
+    },
+    {
+      "id": "clutter:raw_venison_ribs",
+      "required": false
+    },
+    {
+      "id": "clutter:cooked_venison_ribs",
       "required": false
     }
   ]

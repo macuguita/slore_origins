@@ -2,22 +2,6 @@
     "replace": false,
     "values": [
       {
-        "id": "farmersdelight:shepherds_pie",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:honey_glazed_ham",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:stuffed_pumpkin",
-        "required": false
-      },
-      {
-        "id": "farmersdelight:roast_chicken",
-        "required": false
-      },
-      {
         "id": "bakery:braided_bread",
         "required": false
       },
