@@ -1,4 +1,4 @@
-tellraw @a {"text": "MythOrigins Reloaded", "color":"#13D409"}
+tellraw @a {"text": "Slore_SMP_origins Reloaded", "color":"#F600FD"}
 scoreboard objectives add x dummy
 scoreboard objectives add y dummy
 scoreboard objectives add z dummy
