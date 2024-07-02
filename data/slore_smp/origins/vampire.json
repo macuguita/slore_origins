@@ -1,7 +1,8 @@
 {
 	"powers": [
 		"origins:burn_in_daylight",
-		"slore_smp:general/no_food",
+		"slore_smp:vampire/vampire_diet",
+		"slore_smp:vampire/edible_living_flesh",
 		"slore_smp:vampire/leech",
 		"origins:fall_immunity",
 		"slore_smp:vampire/dark_strength",

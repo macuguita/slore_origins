@@ -1,6 +1,6 @@
 {
-    "name": "No food",
-    "description": "You can't eat normal dishes.",
+    "name": "Vampire diet",
+    "description": "You can only eat cursed sap (blood), and living flesh.",
     "type": "origins:prevent_item_use",
     "item_condition": {
         "type": "origins:and",
@@ -11,7 +11,7 @@
             {
                 "type": "origins:ingredient",
                 "ingredient": {
-                    "item": "minecraft:acacia_boat"
+                    "tag": "slore_smp:vampire_food"
                 },
                 "inverted": true
             },
