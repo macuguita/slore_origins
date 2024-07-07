@@ -1,13 +1,15 @@
 {
-    "powers": [
-      "slore_smp:wings/blue_mechanical_feathered_wings",
-      "origins:aerial_combatant",
-      "icarae_origin:icarus",
-      "icarae_origin:flimsy",
-      "slore_smp:royal_icarae/kat_transform_into_wingless"
-    ],
-    "icon": "clutter:tiara",
-    "order": 1,
-    "impact": 3,
-	"unchoosable": true
-  }
+  "powers": [
+    "slore_smp:wings/blue_mechanical_feathered_wings",
+    "origins:aerial_combatant",
+    "icarae_origin:icarus",
+    "icarae_origin:flimsy",
+    "slore_smp:royal_icarae/kat_transform_into_wingless"
+  ],
+  "icon": "clutter:tiara",
+  "order": 1,
+  "impact": 3,
+  "unchoosable": true,
+  "name": "Royal icarae",
+  "description": "Royal icarae origin made by macuguita."
+}
