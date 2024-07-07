@@ -1,9 +1,5 @@
 {
     "replace": false,
     "values": [
-      {
-        "id": "malum:cursed_sap",
-        "required": false
-      }
     ]
   }

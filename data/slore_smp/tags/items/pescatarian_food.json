@@ -48,6 +48,14 @@
       {
         "id": "brewery:whiskey_carrasconlabel",
         "required": false
+      },
+      {
+        "id": "raw_mussel_meat",
+        "required": false
+      },
+      {
+        "id": "cooked_mussel_meat",
+        "required": false
       }
     ]
   }

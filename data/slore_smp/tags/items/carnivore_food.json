@@ -212,6 +212,14 @@
     {
       "id": "clutter:cooked_venison_ribs",
       "required": false
+    },
+    {
+      "id": "raw_mussel_meat",
+      "required": false
+    },
+    {
+      "id": "cooked_mussel_meat",
+      "required": false
     }
   ]
 }
