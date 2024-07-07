@@ -1,0 +1,18 @@
+{
+    "type": "origins:active_self",
+    "name": "Disable wings",
+    "description": "You can turn into a bat with your primary origin key.",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "origin set @s origins:origin slore_smp:royal_icarae_kat"
+            }
+        ]
+    },
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": false
+    }
+}

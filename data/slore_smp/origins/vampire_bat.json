@@ -1,7 +1,7 @@
 {
 	"powers": [
 		"slore_smp:wings/black_feathered_wings",
-		"slore_smp:sizes/0_5_blocks",
+		"slore_smp:sizes/1_block",
 		"slore_smp:general/no_food",
 		"origins:fall_immunity",
 		"slore_smp:vampire/skin",

@@ -1,6 +1,10 @@
 {
   "replace": false,
   "origins": [
+    "slore_smp:admin/royal_icarae/royal_icarae_kat_wingless",
+    "slore_smp:admin/royal_icarae/royal_icarae_kat",
+    "slore_smp:admin/royal_icarae/royal_icarae_mac_wingless",
+    "slore_smp:admin/royal_icarae/royal_icarae_mac",
     "slore_smp:admin/consequences",
     "slore_smp:bunny",
     "slore_smp:dragon_nowing",
