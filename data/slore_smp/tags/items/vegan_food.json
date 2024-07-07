@@ -406,79 +406,79 @@
       "required": false
     },
     {
-      "id": "coconut_open",
+      "id": "beachparty:coconut_open",
       "required": false
     },
     {
-      "id": "coconut_cocktail",
+      "id": "beackparty:coconut_cocktail",
       "required": false
     },
     {
-      "id": "sweetberries_cocktail",
+      "id": "beachparty:sweetberries_cocktail",
       "required": false
     },
     {
-      "id": "cocoa_cocktail",
+      "id": "beachparty:cocoa_cocktail",
       "required": false
     },
     {
-      "id": "pumpkin_cocktail",
+      "id": "beachparty:pumpkin_cocktail",
       "required": false
     },
     {
-      "id": "melon_cocktail",
+      "id": "beachparty:melon_cocktail",
       "required": false
     },
     {
-      "id": "honey_cocktail",
+      "id": "beachparty:honey_cocktail",
       "required": false
     },
     {
-      "id": "sweetberry_milkshake",
+      "id": "beachparty:sweetberry_milkshake",
       "required": false
     },
     {
-      "id": "coconut_milkshake",
+      "id": "beachparty:coconut_milkshake",
       "required": false
     },
     {
-      "id": "chocolate_milkshake",
+      "id": "beachparty:chocolate_milkshake",
       "required": false
     },
     {
-      "id": "refreshing_drink",
+      "id": "beachparty:refreshing_drink",
       "required": false
     },
     {
-      "id": "sweetberry_icecream",
+      "id": "beachparty:sweetberry_icecream",
       "required": false
     },
     {
-      "id": "coconut_icecream",
+      "id": "beachparty:coconut_icecream",
       "required": false
     },
     {
-      "id": "chocolate_icecream",
+      "id": "beachparty:chocolate_icecream",
       "required": false
     },
     {
-      "id": "icecream_coconut",
+      "id": "beachparty:icecream_coconut",
       "required": false
     },
     {
-      "id": "icecream_cactus",
+      "id": "beachparty:icecream_cactus",
       "required": false
     },
     {
-      "id": "icecream_chocolate",
+      "id": "beachparty:icecream_chocolate",
       "required": false
     },
     {
-      "id": "icecream_sweetberries",
+      "id": "beachparty:icecream_sweetberries",
       "required": false
     },
     {
-      "id": "icecream_melon",
+      "id": "beachparty:icecream_melon",
       "required": false
     }
   ]

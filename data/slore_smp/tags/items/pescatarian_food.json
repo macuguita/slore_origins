@@ -50,11 +50,11 @@
         "required": false
       },
       {
-        "id": "raw_mussel_meat",
+        "id": "beachparty:raw_mussel_meat",
         "required": false
       },
       {
-        "id": "cooked_mussel_meat",
+        "id": "beachparty:cooked_mussel_meat",
         "required": false
       }
     ]
