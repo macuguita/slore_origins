@@ -6,7 +6,7 @@
       "icarae_origin:flimsy",
       "slore_smp:royal_icarae/kat_transform_into_wingless"
     ],
-    "icon": "icarus:white_feathered_wings",
+    "icon": "clutter:tiara",
     "order": 1,
     "impact": 3,
 	"unchoosable": true

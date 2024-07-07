@@ -5,7 +5,7 @@
       "icarae_origin:flimsy",
       "slore_smp:royal_icarae/mac_transform_into_winged"
     ],
-    "icon": "icarus:white_feathered_wings",
+    "icon": "clutter:crown",
     "order": 1,
     "impact": 3,
 	"unchoosable": true

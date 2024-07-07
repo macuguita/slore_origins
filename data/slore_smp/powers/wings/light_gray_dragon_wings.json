@@ -1,4 +1,6 @@
 {
     "type": "icarae_origin:wings",
-    "wings_type": "icarus:light_gray_dragon_wings"
+    "wings_type": "icarus:light_gray_dragon_wings",
+    "name": "Winged",
+    "description": "You have wings!"
   }

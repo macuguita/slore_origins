@@ -1,18 +1,18 @@
 {
     "type": "origins:active_self",
     "name": "Disable wings",
-    "description": "You can turn into a bat with your primary origin key.",
+    "description": "You can enable your wings with your primary keybind.",
     "entity_action": {
         "type": "origins:and",
         "actions": [
             {
                 "type": "origins:execute_command",
-                "command": "origin set @s origins:origin slore_smp:royal_icarae_mac"
+                "command": "origin set @s origins:origin slore_smp:admin/royal_icarae/royal_icarae_mac"
             }
         ]
     },
     "key": {
-        "key": "key.origins.primary_active",
+        "key": "key.origins.secondary_active",
         "continuous": false
     }
 }
