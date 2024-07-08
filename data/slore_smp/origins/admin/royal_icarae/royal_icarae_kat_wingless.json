@@ -1,8 +1,5 @@
 {
   "powers": [
-    "origins:aerial_combatant",
-    "icarae_origin:icarus",
-    "icarae_origin:flimsy",
     "slore_smp:royal_icarae/kat_transform_into_winged"
   ],
   "icon": "clutter:tiara",
