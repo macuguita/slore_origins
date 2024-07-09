@@ -130,6 +130,10 @@
       "required": false
     },
     {
+      "id": "vinery:apple_mash",
+      "required": false
+    },
+    {
       "id": "#vinery:grapejuice",
       "required": false
     },
@@ -139,6 +143,10 @@
     },
     {
       "id": "vinery:mead",
+      "required": false
+    },
+    {
+      "id": "vinery:lamroc_wine",
       "required": false
     },
     {
@@ -479,6 +487,94 @@
     },
     {
       "id": "beachparty:icecream_melon",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:green_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:black_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:hibiscus_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:lavender_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:yerba_mate_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:rooibos_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:oolong_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:coffee",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:milk_coffee",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:armor_flask",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:armor_flask_big",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:damage_flask",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:damage_flask_big",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:feral_flask",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:feral_flask_big",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:tea_blossom",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:yerba_mate_leaf",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:rooibos_leaf",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:coffee_beans",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:dried_green_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:dried_black_tea",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:dried_oolong_tea",
       "required": false
     }
   ]
