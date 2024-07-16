@@ -1,7 +1,7 @@
 {
 	"powers": [
 		"slore_smp:mush/moist",
-		"slore_smp:mush/waterlungs",
+		"slore_smp:general/water_breathing",
 		"slore_smp:mush/inhabitant",
 		"slore_smp:general/falldamage",
 		"slore_smp:mush/creepingcap",
