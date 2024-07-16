@@ -1,7 +1,7 @@
 {
   "type": "origins:inventory",
   "name": "Llama Inventory",
-  "description": "Click your secondary power keybind to open a llama storage",
+  "description": "Click your secondary power key to open a llama storage",
   "drop_on_death": false,
   "key": {
     "key": "key.origins.secondary_active",

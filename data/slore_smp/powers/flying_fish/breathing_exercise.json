@@ -63,7 +63,7 @@
         "bar_index": 2
     },
     "key": {
-        "key": "key.saveToolbarActivator",
+        "key": "key.origins.secondary_active",
         "continuous": true
     }
 }

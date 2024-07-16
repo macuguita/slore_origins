@@ -5,6 +5,6 @@
         "command": "function slore_smp:fire_weakness"
     },
     "interval": 1,
-	"name": "Fire Weakness",
+    "name": "Fire Weakness",
     "description": "The hydra was defeated with fire and has now become very afraid."
 }

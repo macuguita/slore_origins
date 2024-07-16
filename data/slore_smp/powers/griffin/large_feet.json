@@ -1,7 +1,0 @@
-{
-    "type": "origins:modify_falling",
-    "velocity": 0.1,
-    "take_fall_damage": false,
-	"name": "Large Feet",
-	"description": "You have large feet so you dont take fall damage."
-}

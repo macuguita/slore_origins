@@ -5,6 +5,6 @@
         "command": "function slore_smp:cave_dweller"
     },
     "interval": 1,
-	"name": "Cave Dweller",
+    "name": "Cave Dweller",
     "description": "Spending alot of time underground makes you uneasy above ground."
 }

@@ -1,13 +1,13 @@
 {
     "powers": [
-	"slore_smp:wings/brown_feathered_wings",
-	"slore_smp:griffin/large_feet",
-	"slore_smp:sizes/3_blocks",
-    "icarae_origin:icarus",
-    "icarae_origin:flimsy",
-	"slore_smp:general/carnivore"
-	],
-	"icon": "minecraft:gold_ingot",
+        "slore_smp:wings/brown_feathered_wings",
+        "slore_smp:general/falldamage",
+        "slore_smp:sizes/3_blocks",
+        "icarae_origin:icarus",
+        "icarae_origin:flimsy",
+        "slore_smp:general/carnivore"
+    ],
+    "icon": "minecraft:gold_ingot",
     "order": 3,
     "impact": 2,
     "name": "Griffin",

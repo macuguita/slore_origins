@@ -5,11 +5,11 @@
         "slore_smp:frost_maw/heartofthemountain",
         "slore_smp:frost_maw/furryskin",
         "slore_smp:frost_maw/iceskin",
-		"slore_smp:frost_maw/coldheart"
+        "slore_smp:frost_maw/coldheart"
     ],
-     "icon": "minecraft:packed_ice",
-     "order": 9,
-     "impact": 3,
-     "name": "Frost Maw",
-     "description": "Appear weak when you are strong and strong when you are weak - Yeti Tsu The Art Of Coldness"
+    "icon": "minecraft:packed_ice",
+    "order": 9,
+    "impact": 3,
+    "name": "Frost Maw",
+    "description": "Appear weak when you are strong and strong when you are weak - Yeti Tsu The Art Of Coldness"
 }

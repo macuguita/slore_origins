@@ -2,9 +2,11 @@
 	"type": "origins:active_self",
 	"condition": {
 		"type": "origins:and",
-		"conditions": [{
+		"conditions": [
+			{
 				"type": "origins:or",
-				"conditions": [{
+				"conditions": [
+					{
 						"type": "origins:equipped_item",
 						"equipment_slot": "mainhand",
 						"item_condition": {
@@ -30,7 +32,8 @@
 	},
 	"entity_action": {
 		"type": "origins:and",
-		"actions": [{
+		"actions": [
+			{
 				"type": "origins:execute_command",
 				"command": "playsound minecraft:entity.generic.eat player @s",
 				"permission_level": 4
@@ -61,6 +64,6 @@
 		"continuous": false
 	},
 	"hidden": false,
-        "name": "Tough Teeth",
-        "description": "Your tough teeth allow you to chow down on coal."
+	"name": "Tough Teeth",
+	"description": "Your tough teeth allow you to chow down on coal."
 }

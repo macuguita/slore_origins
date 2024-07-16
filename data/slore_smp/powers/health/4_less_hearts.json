@@ -1,7 +1,7 @@
-{   
-"name": "Fragile",
-	"description": "You are fragile with half the health of an average player",
- "type": "origins:attribute",
+{
+    "name": "Fragile",
+    "description": "You are fragile with 4 hearts less than an average player.",
+    "type": "origins:attribute",
     "modifier": {
         "attribute": "minecraft:generic.max_health",
         "value": -8,

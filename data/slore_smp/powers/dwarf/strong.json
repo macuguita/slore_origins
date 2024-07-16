@@ -1,9 +1,9 @@
 {
-    "type": "origins:modify_damage_dealt",	
+    "type": "origins:modify_damage_dealt",
     "modifier": {
         "operation": "addition",
         "value": 1.0
     },
-	"name": "Strong",
-	"description": "You hit harder as dwarves where strong."
+    "name": "Strong",
+    "description": "You hit harder as dwarves where strong."
 }

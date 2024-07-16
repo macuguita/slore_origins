@@ -9,7 +9,7 @@
 		"icarae_origin:flimsy",
 		"slore_smp:general/2x_less_damage"
 	],
-	"icon": "minecraft:black_candle",
+	"icon": "minecraft:lantern",
 	"order": 1,
 	"impact": 2,
 	"name": "Moth",

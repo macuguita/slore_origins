@@ -1,8 +1,8 @@
 {
-    "hidden": true,
+    "name": "Robust",
+    "description": "You are robust with 3 more hearts than an average player",
     "type": "origins:attribute",
     "modifier": {
-        "name": "Max health increase",
         "attribute": "minecraft:generic.max_health",
         "value": 6,
         "operation": "addition"

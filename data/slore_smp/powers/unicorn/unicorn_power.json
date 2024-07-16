@@ -5,6 +5,6 @@
         "command": "function slore_smp:unicorn_power"
     },
     "interval": 180,
-	"name": "Unicorn Power",
+    "name": "Unicorn Power",
     "description": "The holiness of the unicorn gives you regeneration."
 }

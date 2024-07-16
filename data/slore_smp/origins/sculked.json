@@ -1,6 +1,4 @@
 {
-    "name": "Sculked",
-    "description": "Sculked, a creature born from the depths of the ancient city's shadows, intertwines with the mysterious energy of the Warden. As a vigilant observer and servant to the city's guardian, Sculked embodies a subtle agility unlike its relentless master.",
     "powers": [
         "slore_smp:sculked/caw",
         "slore_smp:sculked/senses",
@@ -16,9 +14,9 @@
         "slore_smp:sculked/torn",
         "slore_smp:health/2_less_hearts"
     ],
-    "icon": {
-        "item": "minecraft:sculk"
-    },
+    "icon": "minecraft:sculk",
     "order": 10,
-    "impact": 3
+    "impact": 3,
+    "name": "Sculked",
+    "description": "Sculked, a creature born from the depths of the ancient city's shadows, intertwines with the mysterious energy of the Warden. As a vigilant observer and servant to the city's guardian, Sculked embodies a subtle agility unlike its relentless master."
 }

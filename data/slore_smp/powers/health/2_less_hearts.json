@@ -1,8 +1,8 @@
 {
-    "hidden": true,
+    "name": "Fragile",
+    "description": "You are fragile with 2 less hearts than an average player",
     "type": "origins:attribute",
     "modifier": {
-        "name": "Max health increase",
         "attribute": "minecraft:generic.max_health",
         "value": -4,
         "operation": "addition"
