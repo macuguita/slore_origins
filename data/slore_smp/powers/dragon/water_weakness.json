@@ -1,0 +1,29 @@
+{
+    "name": "Lumbering Strength",
+    "description": "You are weak and slow on water.",
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 5,
+    "duration_per_stack": 20,
+    "effects": [
+        {
+            "effect": "minecraft:weakness",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        },
+        {
+            "effect": "minecraft:slowness",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+    "condition": {
+		"type": "origins:on_block",
+		"block_condition": {
+			"type": "origins:block",
+			"block": "minecraft:water"
+		}
+    }
+}

@@ -3,7 +3,7 @@
 		"slore_smp:mush/moist",
 		"slore_smp:mush/waterlungs",
 		"slore_smp:mush/inhabitant",
-		"slore_smp:mush/falldamage",
+		"slore_smp:general/falldamage",
 		"slore_smp:mush/creepingcap",
 		"slore_smp:mush/dehydration",
 		"slore_smp:mush/heat",

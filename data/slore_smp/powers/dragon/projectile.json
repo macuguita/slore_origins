@@ -7,8 +7,8 @@
 	"modifier": {
 		"name": "Weak to projectiles",
 		"operation": "addition",
-		"value": 4.0
+		"value": -2.0
 	},
 	"name": "Being hunted",
-	"description": "As a dragon you naturally take more damage from arrows due to your cind being hunted."
+	"description": "As a dragon you naturally take less damage from arrows due to being used to being hunted."
 }

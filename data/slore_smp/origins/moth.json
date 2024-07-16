@@ -5,6 +5,8 @@
 		"slore_smp:sizes/0_75_blocks",
 		"slore_smp:general/lessfall",
 		"slore_smp:health/4_less_hearts",
+		"icarae_origin:icarus",
+		"icarae_origin:flimsy",
 		"slore_smp:general/2x_less_damage"
 	],
 	"icon": "minecraft:black_candle",

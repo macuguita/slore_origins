@@ -78,6 +78,10 @@
       "required": false
     },
     {
+      "id": "#c:cooked_chicken",
+      "required": false
+    },
+    {
       "id": "brewery:pork_knuckle",
       "required": false
     },
@@ -219,6 +223,82 @@
     },
     {
       "id": "beachparty:cooked_mussel_meat",
+      "required": false
+    },
+    {
+      "id": "beachparty:coconut_open",
+      "required": false
+    },
+    {
+      "id": "beachparty:coconut_cocktail",
+      "required": false
+    },
+    {
+      "id": "beachparty:sweetberries_cocktail",
+      "required": false
+    },
+    {
+      "id": "beachparty:cocoa_cocktail",
+      "required": false
+    },
+    {
+      "id": "beachparty:pumpkin_cocktail",
+      "required": false
+    },
+    {
+      "id": "beachparty:melon_cocktail",
+      "required": false
+    },
+    {
+      "id": "beachparty:honey_cocktail",
+      "required": false
+    },
+    {
+      "id": "beachparty:sweetberry_milkshake",
+      "required": false
+    },
+    {
+      "id": "beachparty:coconut_milkshake",
+      "required": false
+    },
+    {
+      "id": "beachparty:chocolate_milkshake",
+      "required": false
+    },
+    {
+      "id": "beachparty:refreshing_drink",
+      "required": false
+    },
+    {
+      "id": "beachparty:sweetberry_icecream",
+      "required": false
+    },
+    {
+      "id": "beachparty:coconut_icecream",
+      "required": false
+    },
+    {
+      "id": "beachparty:chocolate_icecream",
+      "required": false
+    },
+    {
+      "id": "beachparty:icecream_coconut",
+      "required": false
+    },
+    {
+      "id": "beachparty:icecream_cactus",
+      "required": false
+    },
+    {
+      "id": "beachparty:icecream_chocolate",
+      "required": false
+    },
+    {
+      "id": "beachparty:icecream_sweetberries",
+      "required": false
+    },
+    {
+      "id": "beachparty:icecream_melon",
       "required": false
     }
   ]

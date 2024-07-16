@@ -10,11 +10,13 @@
 		"origins:air_from_potions",
 		"origins:aqua_affinity",
 		"slore_smp:sizes/1_5_blocks",
+		"slore_smp:flying_fish/water_dash",
 		"slore_smp:general/flammable",
+		"icarae_origin:icarus",
+		"icarae_origin:flimsy",
 		"slore_smp:health/4_less_hearts",
 		"origins:no_shield",
-		"slore_smp:flying_fish/breathing_exercise",
-		"slore_smp:flying_fish/disable_wings"
+		"slore_smp:flying_fish/breathing_exercise"
 
 	],
 	"icon": "minecraft:tropical_fish",
