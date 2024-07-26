@@ -1,0 +1,26 @@
+{
+    "name": "Too high",
+    "description": "Flying too close to the sun will result in your wings burning up.",
+    "type": "origins:burn",
+    "interval": 20,
+    "burn_duration": 6,
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:fall_flying"
+        },
+        {
+          "type": "origins:block_collision",
+          "block_condition": {
+            "type": "origins:height",
+            "comparison": ">",
+            "compare_to": 288
+          }
+        },
+        {
+          "type": "origins:exposed_to_sun"
+        }
+      ]
+    }
+  }
