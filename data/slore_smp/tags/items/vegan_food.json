@@ -414,6 +414,10 @@
       "required": false
     },
     {
+      "id": "candlelight:lasagne",
+      "required": false
+    },
+    {
       "id": "beachparty:coconut_open",
       "required": false
     },

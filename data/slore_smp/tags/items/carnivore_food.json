@@ -186,6 +186,10 @@
       "required": false
     },
     {
+      "id": "candlelight:lasagne",
+      "required": false
+    },
+    {
       "id": "meadow:raw_buffalo_meat",
       "required": false
     },
