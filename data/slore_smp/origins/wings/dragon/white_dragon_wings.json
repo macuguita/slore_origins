@@ -1,0 +1,9 @@
+{
+  "powers": [
+      "slore_smp:wings/dragon/white_dragon_wings"
+  ],
+  "name": "White dragon wings",
+  "description": "You have white dragon wings.",
+  "impact": 0,
+  "icon": "icarus:white_dragon_wings"
+}

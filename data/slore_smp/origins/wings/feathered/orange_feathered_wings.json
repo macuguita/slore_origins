@@ -1,0 +1,9 @@
+{
+  "powers": [
+      "slore_smp:wings/feathered/orange_feathered_wings"
+  ],
+  "name": "Orange feathered wings",
+  "description": "You have orange feathered wings.",
+  "impact": 0,
+  "icon": "icarus:orange_feathered_wings"
+}
