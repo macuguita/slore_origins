@@ -53,6 +53,11 @@
                         "type": "origins:origin",
                         "origin": "slore_smp:moth",
                         "layer": "origins:origin"
+                    },
+                    {
+                        "type": "origins:origin",
+                        "origin": "icarae_origin:icarae",
+                        "layer": "origins:origin"
                     }
                 ]
             },
