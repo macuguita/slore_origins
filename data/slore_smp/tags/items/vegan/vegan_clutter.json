@@ -1,0 +1,37 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "clutter:cherries",
+            "required": false
+        },
+        {
+            "id": "clutter:thornbloom_pear",
+            "required": false
+        },
+        {
+            "id": "clutter:baked_thornbloom_pear",
+            "required": false
+        },
+        {
+            "id": "clutter:kiwi",
+            "required": false
+        },
+        {
+            "id": "clutter:kiwi_pie",
+            "required": false
+        },
+        {
+            "id": "clutter:cherry_pie",
+            "required": false
+        },
+        {
+            "id": "clutter:cherries",
+            "required": false
+        },
+        {
+            "id": "clutter:glowlily_bulb",
+            "required": false
+        }
+    ]
+}

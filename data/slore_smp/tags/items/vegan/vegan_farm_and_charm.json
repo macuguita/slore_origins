@@ -1,0 +1,114 @@
+{
+    "replace": false,
+    "values": [
+
+        {
+            "id": "farm_and_charm:corn",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:lettuce",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:onion",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:tomato",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:rotten_tomato",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:strawberry",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:dough",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:raw_pasta",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:farmer_salad",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:oatmeal_with_strawberries",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:simple_tomato_soup",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:barley_soup",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:onion_soup",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:potato_soup",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:pasta_with_onion_sauce",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:corn_grits",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:barley_patties_with_potatoes",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:roasted_corn",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:oat_pancake",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:farmers_bread",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:grandmothers_strawberry_cake",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:strawberry_tea",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:nettle_tea",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:ribwort_tea",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:strawberry_tea_cup",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:nettle_tea_cup",
+            "required": false
+        },
+        {
+            "id": "farm_and_charm:ribwort_tea_cup",
+            "required": false
+        }
+    ]
+}

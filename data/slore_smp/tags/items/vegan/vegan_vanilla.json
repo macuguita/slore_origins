@@ -1,0 +1,89 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "minecraft:potato",
+            "required": false
+        },
+        {
+            "id": "minecraft:carrot",
+            "required": false
+        },
+        {
+            "id": "minecraft:beetroot",
+            "required": false
+        },
+        {
+            "id": "minecraft:apple",
+            "required": false
+        },
+        {
+            "id": "minecraft:melon_slice",
+            "required": false
+        },
+        {
+            "id": "minecraft:glow_berries",
+            "required": false
+        },
+        {
+            "id": "minecraft:sweet_berries",
+            "required": false
+        },
+        {
+            "id": "minecraft:apple",
+            "required": false
+        },
+        {
+            "id": "minecraft:golden_apple",
+            "required": false
+        },
+        {
+            "id": "minecraft:enchanted_golden_apple",
+            "required": false
+        },
+        {
+            "id": "minecraft:melon_slice",
+            "required": false
+        },
+        {
+            "id": "minecraft:chorus_fruit",
+            "required": false
+        },
+        {
+            "id": "minecraft:golden_carrot",
+            "required": false
+        },
+        {
+            "id": "minecraft:baked_potato",
+            "required": false
+        },
+        {
+            "id": "minecraft:poisonous_potato",
+            "required": false
+        },
+        {
+            "id": "minecraft:dried_kelp",
+            "required": false
+        },
+        {
+            "id": "minecraft:bread",
+            "required": false
+        },
+        {
+            "id": "minecraft:cookie",
+            "required": false
+        },
+        {
+            "id": "minecraft:pumpkin_pie",
+            "required": false
+        },
+        {
+            "id": "minecraft:mushroom_stew",
+            "required": false
+        },
+        {
+            "id": "minecraft:beetroot_soup",
+            "required": false
+        }
+    ]
+}
