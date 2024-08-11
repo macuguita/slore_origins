@@ -2,32 +2,32 @@
   "replace": false,
   "values": [
     {
-        "id": "#slore_smp:carnivore/carnivore_beachparty",
-        "required": false
+      "id": "#slore_smp:carnivore/carnivore_beachparty",
+      "required": false
     },
     {
-        "id": "#slore_smp:carnivore/carnivore_brewery",
-        "required": false
+      "id": "#slore_smp:carnivore/carnivore_brewery",
+      "required": false
     },
     {
-        "id": "#slore_smp:carnivore/carnivore_candlelight",
-        "required": false
+      "id": "#slore_smp:carnivore/carnivore_candlelight",
+      "required": false
     },
     {
-        "id": "#slore_smp:carnivore/carnivore_clutter",
-        "required": false
+      "id": "#slore_smp:carnivore/carnivore_clutter",
+      "required": false
     },
     {
-        "id": "#slore_smp:carnivore/carnivore_farm_and_charm",
-        "required": false
+      "id": "#slore_smp:carnivore/carnivore_farm_and_charm",
+      "required": false
     },
     {
-        "id": "#slore_smp:carnivore/carnivore_vanilla",
-        "required": false
+      "id": "#slore_smp:carnivore/carnivore_vanilla",
+      "required": false
     },
     {
       "id": "#slore_smp:carnivore/carnivore_vinery",
       "required": false
-  }
+    }
   ]
 }

@@ -1,61 +1,61 @@
 {
-    "replace": false,
-    "values": [
-      {
-        "id": "#minecraft:fishes",
-        "required": false
-      },
-      {
-        "id": "#vinery:grapejuice",
-        "required": false
-      },
-      {
-        "id": "#vinery:wine",
-        "required": false
-      },
-      {
-        "id": "brewery:beer_wheat",
-        "required": false
-      },
-      {
-        "id": "brewery:beer_barley",
-        "required": false
-      },
-      {
-        "id": "brewery:beer_hops",
-        "required": false
-      },
-      {
-        "id": "brewery:beer_haley",
-        "required": false
-      },
-      {
-        "id": "brewery:whiskey_jojannik",
-        "required": false
-      },
-      {
-        "id": "brewery:whiskey_lilitusinglemalt",
-        "required": false
-      },
-      {
-        "id": "brewery:whiskey_cristelwalker",
-        "required": false
-      },
-      {
-        "id": "brewery:whiskey_maggoallan",
-        "required": false
-      },
-      {
-        "id": "brewery:whiskey_carrasconlabel",
-        "required": false
-      },
-      {
-        "id": "beachparty:raw_mussel_meat",
-        "required": false
-      },
-      {
-        "id": "beachparty:cooked_mussel_meat",
-        "required": false
-      }
-    ]
-  }
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:fishes",
+      "required": false
+    },
+    {
+      "id": "#vinery:grapejuice",
+      "required": false
+    },
+    {
+      "id": "#vinery:wine",
+      "required": false
+    },
+    {
+      "id": "brewery:beer_wheat",
+      "required": false
+    },
+    {
+      "id": "brewery:beer_barley",
+      "required": false
+    },
+    {
+      "id": "brewery:beer_hops",
+      "required": false
+    },
+    {
+      "id": "brewery:beer_haley",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_jojannik",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_lilitusinglemalt",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_cristelwalker",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_maggoallan",
+      "required": false
+    },
+    {
+      "id": "brewery:whiskey_carrasconlabel",
+      "required": false
+    },
+    {
+      "id": "beachparty:raw_mussel_meat",
+      "required": false
+    },
+    {
+      "id": "beachparty:cooked_mussel_meat",
+      "required": false
+    }
+  ]
+}
