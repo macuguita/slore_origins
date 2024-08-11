@@ -2,26 +2,6 @@
     "replace": false,
     "values": [
         {
-            "id": "vinery:cherry",
-            "required": false
-        },
-        {
-            "id": "vinery:rotten_cherry",
-            "required": false
-        },
-        {
-            "id": "vinery:red_grape",
-            "required": false
-        },
-        {
-            "id": "vinery:white_grape",
-            "required": false
-        },
-        {
-            "id": "vinery:apple_mash",
-            "required": false
-        },
-        {
             "id": "vinery:chenet_wine",
             "required": false
         },
@@ -123,30 +103,6 @@
         },
         {
             "id": "vinery:lamroc_wine",
-            "required": false
-        },
-        {
-            "id": "vinery:savanna_grapes_red",
-            "required": false
-        },
-        {
-            "id": "vinery:savanna_grapes_white",
-            "required": false
-        },
-        {
-            "id": "vinery:taiga_grapes_red",
-            "required": false
-        },
-        {
-            "id": "vinery:taiga_grapes_white",
-            "required": false
-        },
-        {
-            "id": "vinery:jungle_grapes_red",
-            "required": false
-        },
-        {
-            "id": "vinery:jungle_grapes_white",
             "required": false
         }
     ]

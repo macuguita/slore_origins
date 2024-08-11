@@ -2,308 +2,32 @@
   "replace": false,
   "values": [
     {
-      "id": "minecraft:rotten_flesh",
-      "required": false
-    },
-    {
-      "id": "minecraft:cod",
-      "required": false
-    },
-    {
-      "id": "minecraft:tropical_fish",
-      "required": false
-    },
-    {
-      "id": "minecraft:pufferfish",
-      "required": false
-    },
-    {
-      "id": "minecraft:salmon",
-      "required": false
-    },
-    {
-      "id": "minecraft:beef",
-      "required": false
-    },
-    {
-      "id": "minecraft:porkchop",
-      "required": false
-    },
-    {
-      "id": "minecraft:mutton",
-      "required": false
-    },
-    {
-      "id": "minecraft:chicken",
-      "required": false
-    },
-    {
-      "id": "minecraft:rabbit",
-      "required": false
-    },
-    {
-      "id": "minecraft:cooked_chicken",
-      "required": false
-    },
-    {
-      "id": "minecraft:cooked_rabbit",
-      "required": false
-    },
-    {
-      "id": "minecraft:rabbit_stew",
-      "required": false
-    },
-    {
-      "id": "minecraft:cooked_porkchop",
-      "required": false
-    },
-    {
-      "id": "minecraft:cooked_cod",
-      "required": false
-    },
-    {
-      "id": "minecraft:cooked_beef",
-      "required": false
-    },
-    {
-      "id": "minecraft:cooked_mutton",
-      "required": false
-    },
-    {
-      "id": "minecraft:cooked_salmon",
-      "required": false
-    },
-    {
-      "id": "minecraft:spider_eye",
-      "required": false
-    },
-    {
-      "id": "#c:cooked_chicken",
-      "required": false
-    },
-    {
-      "id": "brewery:pork_knuckle",
-      "required": false
-    },
-    {
-      "id": "brewery:sausage",
-      "required": false
-    },
-    {
-      "id": "#vinery:grapejuice",
-      "required": false
-    },
-    {
-      "id": "#vinery:wine",
-      "required": false
-    },
-    {
-      "id": "brewery:beer_wheat",
-      "required": false
-    },
-    {
-      "id": "brewery:beer_barley",
-      "required": false
-    },
-    {
-      "id": "brewery:beer_hops",
-      "required": false
-    },
-    {
-      "id": "brewery:beer_haley",
-      "required": false
-    },
-    {
-      "id": "brewery:whiskey_jojannik",
-      "required": false
-    },
-    {
-      "id": "brewery:whiskey_lilitusinglemalt",
-      "required": false
-    },
-    {
-      "id": "brewery:whiskey_cristelwalker",
-      "required": false
-    },
-    {
-      "id": "brewery:whiskey_maggoallan",
-      "required": false
-    },
-    {
-      "id": "brewery:whiskey_carrasconlabel",
-      "required": false
-    },
-    {
-      "id": "candlelight:bolognese",
-      "required": false
-    },
-    {
-      "id": "candlelight:chicken_teriyaki",
-      "required": false
-    },
-    {
-      "id": "candlelight:beef_tartare",
-      "required": false
+        "id": "#slore_smp:carnivore/carnivore_beachparty",
+        "required": false
     },
     {
-      "id": "candlelight:fricasse",
-      "required": false
-    },
-    {
-      "id": "candlelight:cooked_beef",
-      "required": false
-    },
-    {
-      "id": "candlelight:pork_ribs",
-      "required": false
-    },
-    {
-      "id": "candlelight:roastbeef_carrots",
-      "required": false
-    },
-    {
-      "id": "candlelight:lettuce_beef",
-      "required": false
-    },
-    {
-      "id": "candlelight:tropical_fish_supreme",
-      "required": false
-    },
-    {
-      "id": "candlelight:salmon_wine",
-      "required": false
-    },
-    {
-      "id": "candlelight:chicken_alfredo",
-      "required": false
-    },
-    {
-      "id": "candlelight:chicken",
-      "required": false
-    },
-    {
-      "id": "candlelight:beef_wellington",
-      "required": false
-    },
-    {
-      "id": "candlelight:lasagne",
-      "required": false
-    },
-    {
-      "id": "meadow:raw_buffalo_meat",
-      "required": false
-    },
-    {
-      "id": "meadow:cooked_buffalo_meat",
-      "required": false
-    },
-    {
-      "id": "meadow:roasted_ham",
-      "required": false
-    },
-    {
-      "id": "meadow:sausage_with_cheese",
-      "required": false
-    },
-    {
-      "id": "clutter:raw_venison",
-      "required": false
-    },
-    {
-      "id": "clutter:cooked_venison",
-      "required": false
-    },
-    {
-      "id": "clutter:raw_venison_ribs",
-      "required": false
-    },
-    {
-      "id": "clutter:cooked_venison_ribs",
-      "required": false
-    },
-    {
-      "id": "beachparty:raw_mussel_meat",
-      "required": false
-    },
-    {
-      "id": "beachparty:cooked_mussel_meat",
-      "required": false
-    },
-    {
-      "id": "beachparty:coconut_open",
-      "required": false
-    },
-    {
-      "id": "beachparty:coconut_cocktail",
-      "required": false
-    },
-    {
-      "id": "beachparty:sweetberries_cocktail",
-      "required": false
-    },
-    {
-      "id": "beachparty:cocoa_cocktail",
-      "required": false
-    },
-    {
-      "id": "beachparty:pumpkin_cocktail",
-      "required": false
-    },
-    {
-      "id": "beachparty:melon_cocktail",
-      "required": false
-    },
-    {
-      "id": "beachparty:honey_cocktail",
-      "required": false
-    },
-    {
-      "id": "beachparty:sweetberry_milkshake",
-      "required": false
-    },
-    {
-      "id": "beachparty:coconut_milkshake",
-      "required": false
-    },
-    {
-      "id": "beachparty:chocolate_milkshake",
-      "required": false
-    },
-    {
-      "id": "beachparty:refreshing_drink",
-      "required": false
-    },
-    {
-      "id": "beachparty:sweetberry_icecream",
-      "required": false
-    },
-    {
-      "id": "beachparty:coconut_icecream",
-      "required": false
+        "id": "#slore_smp:carnivore/carnivore_brewery",
+        "required": false
     },
     {
-      "id": "beachparty:chocolate_icecream",
-      "required": false
-    },
-    {
-      "id": "beachparty:icecream_coconut",
-      "required": false
+        "id": "#slore_smp:carnivore/carnivore_candlelight",
+        "required": false
     },
     {
-      "id": "beachparty:icecream_cactus",
-      "required": false
+        "id": "#slore_smp:carnivore/carnivore_clutter",
+        "required": false
     },
     {
-      "id": "beachparty:icecream_chocolate",
-      "required": false
+        "id": "#slore_smp:carnivore/carnivore_farm_and_charm",
+        "required": false
     },
     {
-      "id": "beachparty:icecream_sweetberries",
-      "required": false
+        "id": "#slore_smp:carnivore/carnivore_vanilla",
+        "required": false
     },
     {
-      "id": "beachparty:icecream_melon",
+      "id": "#slore_smp:carnivore/carnivore_vinery",
       "required": false
-    }
+  }
   ]
 }
