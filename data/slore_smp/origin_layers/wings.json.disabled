@@ -79,21 +79,6 @@
                 "slore_smp:wings/feathered/white_feathered_wings",
                 "slore_smp:wings/feathered/yellow_feathered_wings"
             ]
-        },
-        {
-            "condition": {
-                "type": "origins:or",
-                "conditions": [
-                    {
-                        "type": "origins:origin",
-                        "origin": "slore_smp:admin/test",
-                        "layer": "origins:origin"
-                    }
-                ]
-            },
-            "origins": [
-                "slore_smp:wings/admin/flandres_wings"
-            ]
         }
     ],
     "comment": "Wings!",
