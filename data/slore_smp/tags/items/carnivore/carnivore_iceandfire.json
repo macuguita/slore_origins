@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "iceandfire:fire_dragon_flesh",
+            "required": false
+        },
+        {
+            "id": "iceandfire:ice_dragon_flesh",
+            "required": false
+        },
+        {
+            "id": "iceandfire:lightning_dragon_flesh",
+            "required": false
+        },
+        {
+            "id": "iceandfire:ambrosia",
+            "required": false
+        }
+    ]
+}

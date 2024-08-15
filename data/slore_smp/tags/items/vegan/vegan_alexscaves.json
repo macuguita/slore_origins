@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "alexscaves:pine_nuts",
+            "required": false
+        },
+        {
+            "id": "alexscaves:serene_salad",
+            "required": false
+        },
+        {
+            "id": "alexscaves:spelunkie",
+            "required": false
+        },
+        {
+            "id": "alexscaves:green_soylent",
+            "required": false
+        },
+        {
+            "id": "alexscaves:darkened_apple",
+            "required": false
+        }
+    ]
+}

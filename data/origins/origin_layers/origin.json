@@ -1,28 +1,12 @@
 {
   "replace": false,
   "origins": [
-    "slore_smp:admin/royal_icarae/royal_icarae_kat_wingless",
-    "slore_smp:admin/royal_icarae/royal_icarae_kat",
-    "slore_smp:admin/royal_icarae/royal_icarae_mac_wingless",
-    "slore_smp:admin/royal_icarae/royal_icarae_mac",
-    "slore_smp:admin/royal_icarae/royal_icarae_nicole_wingless",
-    "slore_smp:admin/royal_icarae/royal_icarae_nicole",
-    "slore_smp:admin/consequences",
     "slore_smp:admin/womanbrine",
-    "slore_smp:bunny",
     "slore_smp:dragon",
-    "slore_smp:duck",
     "slore_smp:dwarf",
-    "slore_smp:flying_fish",
-    "slore_smp:frostmaw",
-    "slore_smp:griffin",
     "slore_smp:hydra",
-    "slore_smp:llamaborn",
     "slore_smp:moth",
     "slore_smp:mushling",
-    "slore_smp:sculked",
-    "slore_smp:unicorn",
-    "slore_smp:vampire_bat",
-    "slore_smp:vampire"
+    "slore_smp:unicorn"
   ]
 }

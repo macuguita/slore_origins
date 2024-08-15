@@ -1,0 +1,69 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "alexscaves:trilocaris_tail",
+            "required": false
+        },
+        {
+            "id": "alexscaves:cooked_trilocaris_tail",
+            "required": false
+        },
+        {
+            "id": "alexscaves:dinosaur_nugget",
+            "required": false
+        },
+        {
+            "id": "alexscaves:primordial_soup",
+            "required": false
+        },
+        {
+            "id": "alexscaves:radgill",
+            "required": false
+        },
+        {
+            "id": "alexscaves:cooked_radgill",
+            "required": false
+        },
+        {
+            "id": "alexscaves:slam",
+            "required": false
+        },
+        {
+            "id": "alexscaves:green_soylent",
+            "required": false
+        },
+        {
+            "id": "alexscaves:lanternfish",
+            "required": false
+        },
+        {
+            "id": "alexscaves:cooked_lanternfish",
+            "required": false
+        },
+        {
+            "id": "alexscaves:tripodfish",
+            "required": false
+        },
+        {
+            "id": "alexscaves:cooked_tripodfish",
+            "required": false
+        },
+        {
+            "id": "alexscaves:sea_pig",
+            "required": false
+        },
+        {
+            "id": "alexscaves:cooked_mussel",
+            "required": false
+        },
+        {
+            "id": "alexscaves:deep_sea_sushi_roll",
+            "required": false
+        },
+        {
+            "id": "alexscaves:vesper_stew",
+            "required": false
+        }
+    ]
+}

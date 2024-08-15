@@ -2,6 +2,14 @@
   "replace": false,
   "values": [
     {
+      "id": "#slore_smp:vegan/vegan_alexscaves",
+      "required": false
+    },
+    {
+      "id": "#slore_smp:vegan/vegan_alexsmobs",
+      "required": false
+    },
+    {
       "id": "#slore_smp:vegan/vegan_bakery",
       "required": false
     },
@@ -22,11 +30,19 @@
       "required": false
     },
     {
+      "id": "#slore_smp:vegan/vegan_create",
+      "required": false
+    },
+    {
       "id": "#slore_smp:vegan/vegan_farm_and_charm",
       "required": false
     },
     {
       "id": "#slore_smp:vegan/vegan_herbalbrews",
+      "required": false
+    },
+    {
+      "id": "#slore_smp:vegan/vegan_iceandfire",
       "required": false
     },
     {
@@ -39,6 +55,10 @@
     },
     {
       "id": "#slore_smp:vegan/vegan_vinery",
+      "required": false
+    },
+    {
+      "id": "#slore_smp:vegan/vegan_wildernature",
       "required": false
     }
   ]

@@ -1,0 +1,73 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "alexsmobs:maggot",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:lobster_tail",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:cooked_lobster_tail",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:sopa_de_macaco",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:moose_ribs",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:cooked_moose_ribs",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:blobfish",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:boiled_emu_egg",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:kangaroo_burger",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:kangaroo_meat",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:cooked_kangaroo_meat",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:cosmic_cod",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:rainbow_jelly",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:raw_catfish",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:cooked_catfish",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:flying_fish",
+            "required": false
+        },
+        {
+            "id": "alexsmobs:mosquito_repellent_stew",
+            "required": false
+        }
+    ]
+}
