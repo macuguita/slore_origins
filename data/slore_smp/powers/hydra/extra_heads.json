@@ -10,6 +10,7 @@
         "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
         "bar_index": 4
     },
+    "key": "key.origins.secondary_active",
     "name": "Extra Heads",
     "description": "With a bit of sacrifice you can grow extra heads and you gain an extra head."
 }

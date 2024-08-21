@@ -1,0 +1,20 @@
+{
+	"powers":[
+		"slore_smp:goolien/absorbent",
+		"slore_smp:goolien/condensing",
+		"slore_smp:goolien/flammable",
+		"slore_smp:goolien/gooey_body",
+		"slore_smp:goolien/gooey_fists",
+		"slore_smp:goolien/gooey_skin",
+		"slore_smp:goolien/ignitable",
+		"slore_smp:goolien/no_lungs",
+		"slore_smp:goolien/splat",
+		"slore_smp:goolien/sticky_grip",
+		"slore_smp:goolien/stomach_body",
+		"origins:no_shield"
+	],
+	"icon":"minecraft:slime_block",
+	"impact":3,
+	"name": "Goolien",
+	"description": "Goolien origin made by macuguita."
+}

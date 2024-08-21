@@ -1,0 +1,15 @@
+{
+    "type": "origins:active_self",
+    "cooldown": 900,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "function slore_smp:freeze"
+    },
+    "hud_render": {
+        "should_render": true,
+        "sprite_location":"origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+        "bar_index": 8
+    },
+    "name": "Cold Snap",
+    "description": "Your can freeze all nearby mobs and cover the area in powdered snow."
+}

@@ -1,0 +1,19 @@
+{
+    "type": "origins:multiple",
+    "freeze": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "freeze"
+        }
+    },
+    "freeze_player": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "freeze.player"
+        }
+    },
+    "name": "Thick Hide",
+    "description": "You can't freeze in snow."
+}

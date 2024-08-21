@@ -1,0 +1,32 @@
+{
+    "type": "origins:multiple",
+    "toggle": {
+        "type": "origins:toggle",
+        "key": {
+            "key": "key.origins.primary_active",
+            "continuous": false
+        },
+        "hidden": true
+    },
+    "nofog": {
+        "type": "origins:modify_camera_submersion",
+        "from": "water",
+        "to": "none",
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        },
+        "hidden": true
+    },
+    "nightvision": {
+        "type": "origins:night_vision",
+        "strength": 1,
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        },
+        "hidden": true
+    },
+    "name": "Deepsight",
+    "description": "You have an even better vision underwater than merlings!"
+}

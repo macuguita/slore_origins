@@ -1,0 +1,17 @@
+{
+	"type": "origins:modify_damage_taken",
+	"modifier": {
+		"name": "Weak on hot biomes",
+		"operation": "multiply_base",
+		"value": 0.75
+	},
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:temperature",
+            "comparison": ">=",
+            "compare_to": 0.15
+        }
+    },
+    "hidden": true
+}

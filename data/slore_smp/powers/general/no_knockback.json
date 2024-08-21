@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "knockback resistance",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "value": 999999999999999,
+        "operation": "addition"
+    },
+    "name":"Knockback resistance",
+    "description":"You take no knockback"
+}

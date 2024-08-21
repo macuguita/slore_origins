@@ -1,0 +1,7 @@
+{
+    "type": "origins:modify_player_spawn",
+    "dimension": "minecraft:overworld",
+    "biome": "minecraft:snowy_slopes",
+    "name": "Himalayan Native",
+    "description": "The yetis originate from the snowy mountains."
+}

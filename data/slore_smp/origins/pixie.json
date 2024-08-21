@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"slore_smp:general/float",
+        "slore_smp:sizes/1_block",
+        "slore_smp:pixie/area_regen",
+        "slore_smp:pixie/pixie_particles",
+        "slore_smp:pixie/regeneration",
+        "slore_smp:general/slow_falling",
+        "slore_smp:pixie/picky",
+        "slore_smp:pixie/sugar_diet",
+        "slore_smp:general/2x_less_damage",
+		"slore_smp:health/5_less_hearts"
+	],
+	"icon": "minecraft:sugar",
+	"order": 3,
+	"impact": 1,
+	"name": "Pixie",
+	"description": "Pixie origin made by macuguita."
+}

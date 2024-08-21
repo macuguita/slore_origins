@@ -1,0 +1,13 @@
+{
+    "type": "origins:prevent_sleep",
+    "message": "It's too hot here",
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:temperature",
+            "comparison": ">=",
+            "compare_to": 0.95
+        }
+    },
+    "hidden": true
+}

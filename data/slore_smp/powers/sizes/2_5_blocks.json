@@ -19,7 +19,7 @@
             },
             {
                 "type": "origins:execute_command",
-                "command": "scale set pehkui:health 1.2 @s"
+                "command": "scale set pehkui:reach 1.33 @s"
             },
             {
                 "type": "origins:execute_command",

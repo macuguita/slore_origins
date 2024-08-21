@@ -1,6 +1,7 @@
 {
 	"powers": [
-		"slore_smp:wings/winged",
+		"origins:elytra",
+		"origins:launch_into_air",
 		"slore_smp:general/vegan",
 		"slore_smp:sizes/0_75_blocks",
 		"slore_smp:general/lessfall",

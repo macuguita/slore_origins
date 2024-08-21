@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "slore_smp:deep_one/deepsight",
+    "slore_smp:deep_one/water_walk",
+    "slore_smp:general/water_breathing",
+    "origins:aqua_affinity",
+    "origins:swim_speed",
+    "origins:like_water"
+  ],
+  "icon": "alexscaves:gazing_pearl",
+  "order": 1,
+  "impact": 3,
+  "unchoosable": true,
+  "name": "Deep one",
+  "description": "Deep one origin made by macuguita."
+}

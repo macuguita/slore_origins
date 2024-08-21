@@ -1,13 +1,11 @@
 {
-    "name": "Lumbering Strength",
-    "description": "You are very strong.",
     "type": "origins:stacking_status_effect",
     "min_stacks": 0,
     "max_stacks": 5,
     "duration_per_stack": 20,
     "effects": [
         {
-            "effect": "minecraft:strength",
+            "effect": "minecraft:slow_falling",
             "is_ambient": true,
             "show_particles": false,
             "show_icon": false
@@ -16,5 +14,6 @@
     "condition": {
         "type": "origins:constant",
         "value": true
-    }
+    },
+    "hidden": true
 }

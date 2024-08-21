@@ -1,22 +1,20 @@
 {
 	"powers": [
-		"slore_smp:wings/winged",
+		"origins:elytra",
+		"origins:launch_into_air",
 		"slore_smp:sizes/4_blocks",
 		"slore_smp:health/3_more_hearts",
-		"origins:fire_immunity",
+		"slore_smp:dragon/dragon_armor_boost",
 		"origins:hotblooded",
-		"origins:burning_wrath",
 		"origins:natural_armor",
 		"origins:more_exhaustion",
 		"slore_smp:general/lumbering_strength",
 		"slore_smp:general/ride",
 		"origins:no_shield",
-		"slore_smp:wings/too_high",
 		"icarae_origin:flimsy",
 		"slore_smp:dragon/no_sleep",
 		"slore_smp:dragon/water_weakness",
-		"slore_smp:dragon/projectile",
-		"slore_smp:general/falldamage"
+		"slore_smp:dragon/projectile"
 	],
 	"icon": "minecraft:lava_bucket",
 	"order": 1,

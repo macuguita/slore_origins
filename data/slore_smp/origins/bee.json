@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"slore_smp:general/float",
+		"slore_smp:sizes/0_75_blocks",
+		"slore_smp:general/vegan",
+		"slore_smp:general/2x_less_damage",
+		"slore_smp:general/lessfall",
+		"origins:climbing",
+		"slore_smp:health/5_less_hearts"
+	],
+	"icon": "minecraft:honeycomb",
+	"order": 3,
+	"impact": 1,
+	"name": "Bee",
+	"description": "Bee origin made by macuguita."
+}

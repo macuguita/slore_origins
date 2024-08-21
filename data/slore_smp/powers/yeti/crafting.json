@@ -1,0 +1,19 @@
+{
+    "type": "origins:multiple",
+    "smoker": {
+        "type": "origins:prevent_block_use",
+        "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:smoker"
+        }
+    },
+    "blast_furnace": {
+        "type": "origins:prevent_block_use",
+        "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:blast_furnace"
+        }
+    },
+    "name": "Low Intelligence",
+    "description": "You can't use complicated heating utilities."
+}

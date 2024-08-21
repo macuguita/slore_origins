@@ -1,0 +1,22 @@
+{
+	"powers":[
+		"slore_smp:sizes/2_5_blocks",
+		"origins:fire_immunity",
+		"origins:fragile",
+		"origins:nether_spawn",
+		"origins:slow_falling",
+		"origins:translucent",
+		"slore_smp:ghast/fire_charge",
+		"slore_smp:ghast/fire_charge_a",
+		"slore_smp:general/float",
+		"slore_smp:ghast/hunger_over_time",
+		"slore_smp:ghast/miserable",
+		"slore_smp:ghast/nether_phasing",
+		"slore_smp:ghast/not_warm_shaking",
+		"slore_smp:ghast/red_nether_phasing"
+	],
+	"icon":"minecraft:fire_charge",
+	"impact":3,
+	"name": "Ghast",
+	"description": "Ghast origin made by macuguita."
+}

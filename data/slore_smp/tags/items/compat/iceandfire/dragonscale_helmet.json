@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "iceandfire:armor_red_helmet",
+        "iceandfire:armor_bronze_helmet",
+        "iceandfire:armor_green_helmet",
+        "iceandfire:armor_gray_helmet",
+        "iceandfire:armor_blue_helmet",
+        "iceandfire:armor_white_helmet",
+        "iceandfire:armor_sapphire_helmet",
+        "iceandfire:armor_silver_helmet",
+        "iceandfire:armor_electric_helmet",
+        "iceandfire:armor_amythest_helmet",
+        "iceandfire:armor_copper_helmet",
+        "iceandfire:armor_black_helmet"
+    ]
+}

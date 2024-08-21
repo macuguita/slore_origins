@@ -1,0 +1,5 @@
+{
+    "type": "origins:prevent_elytra_flight",
+    "name": "Misshapen",
+    "description": "The elytra doesn't fit or work properly."
+}

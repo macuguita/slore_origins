@@ -1,12 +1,19 @@
 {
   "replace": false,
   "origins": [
+    "slore_smp:admin/deep_one",
     "slore_smp:admin/womanbrine",
+    "slore_smp:bee",
     "slore_smp:dragon",
     "slore_smp:dwarf",
+    "slore_smp:ghast",
+    "slore_smp:goolien",
+    "slore_smp:griffon",
     "slore_smp:hydra",
     "slore_smp:moth",
     "slore_smp:mushling",
-    "slore_smp:unicorn"
+    "slore_smp:pixie",
+    "slore_smp:unicorn",
+    "slore_smp:yeti"
   ]
 }
