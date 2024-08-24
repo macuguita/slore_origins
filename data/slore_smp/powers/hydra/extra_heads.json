@@ -1,9 +1,25 @@
 {
     "type": "origins:active_self",
     "entity_action": {
-        "type": "origins:execute_command",
-        "command": "function slore_smp:extra_heads",
-        "permission": 4
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "execute run scale add pehkui:health 0.1 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @s minecraft:instant_damage 1 1 true"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @s minecraft:hunger 3 255 true"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale persist set pehkui:health false @s"
+            }
+        ]
     },
     "cooldown": 2400,
     "hud_render": {
