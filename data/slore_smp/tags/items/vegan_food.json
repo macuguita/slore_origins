@@ -46,6 +46,10 @@
       "required": false
     },
     {
+      "id": "#slore_smp:vegan/vegan_nethervinery",
+      "required": false
+    },
+    {
       "id": "#slore_smp:vegan/vegan_supplementaries",
       "required": false
     },

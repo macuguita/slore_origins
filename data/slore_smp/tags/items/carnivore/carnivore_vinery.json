@@ -2,6 +2,26 @@
     "replace": false,
     "values": [
         {
+            "id": "vinery:cherry",
+            "required": false
+        },
+        {
+            "id": "vinery:rotten_cherry",
+            "required": false
+        },
+        {
+            "id": "vinery:red_grape",
+            "required": false
+        },
+        {
+            "id": "vinery:white_grape",
+            "required": false
+        },
+        {
+            "id": "vinery:apple_mash",
+            "required": false
+        },
+        {
             "id": "vinery:chenet_wine",
             "required": false
         },
@@ -26,11 +46,23 @@
             "required": false
         },
         {
+            "id": "vinery:apple_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:apple_cider",
+            "required": false
+        },
+        {
             "id": "vinery:bottle_mojang_noir",
             "required": false
         },
         {
             "id": "vinery:cherry_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:magnetic_wine",
             "required": false
         },
         {

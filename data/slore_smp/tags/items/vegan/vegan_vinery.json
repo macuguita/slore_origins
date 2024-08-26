@@ -46,11 +46,23 @@
             "required": false
         },
         {
+            "id": "vinery:apple_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:apple_cider",
+            "required": false
+        },
+        {
             "id": "vinery:bottle_mojang_noir",
             "required": false
         },
         {
             "id": "vinery:cherry_wine",
+            "required": false
+        },
+        {
+            "id": "vinery:magnetic_wine",
             "required": false
         },
         {
