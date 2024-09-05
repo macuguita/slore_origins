@@ -2,7 +2,7 @@
     "type": "origins:action_over_time",
     "entity_action": {
         "type": "origins:execute_command",
-        "command": "function slore_smp:unicorn_power"
+        "command": "execute run effect give @s minecraft:instant_health 1 1 true"
     },
     "interval": 180,
     "name": "Unicorn Power",

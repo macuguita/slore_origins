@@ -1,19 +1,16 @@
 {
-    "type": "origins:active_self",
-    "entity_action": {
-        "type": "origins:execute_command",
-        "command": "function slore_smp:horn"
-    },
-    "cooldown": 10,
-    "hud_render": {
-        "should_render": true,
+	"type":"origins:fire_projectile",
+	"entity_type":"minecraft:arrow",
+	"speed":1.5,
+	"cooldown":10,
+	"hud_render":{
         "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
-        "bar_index": 19
-    },
+		"bar_index":19
+	},
     "key": {
         "key": "key.origins.primary_active",
         "continuous": true
     },
-    "name": "Sharp Horn",
-    "description": "Fire a horn at your enemies."
+	"name":"Sharp Horn",
+	"description":"Fire a horn at your enemies."
 }
