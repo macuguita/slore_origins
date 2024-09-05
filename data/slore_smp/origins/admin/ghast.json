@@ -2,6 +2,7 @@
 	"powers":[
 		"slore_smp:sizes/2_5_blocks_ghast",
 		"origins:fire_immunity",
+		"origins:fragile",
 		"origins:slow_falling",
 		"slore_smp:ghast/fire_charge",
 		"slore_smp:ghast/fire_charge_a",
