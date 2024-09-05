@@ -1,0 +1,34 @@
+{
+    "name": "Tall",
+    "description": "You are 2.5 blocks tall.",
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:height 1.33 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:model_width 1.33 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:step_height 1.25 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:reach 1.33 @s"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale persist set true @s"
+            }
+        ]
+    },
+    "entity_action_lost": {
+        "type": "origins:execute_command",
+        "command": "scale reset @s"
+    }
+}
