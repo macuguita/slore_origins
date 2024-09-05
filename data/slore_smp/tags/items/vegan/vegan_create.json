@@ -10,6 +10,10 @@
             "required": false
         },
         {
+            "id": "create:chocolate_glazed_berries",
+            "required": false
+        },
+        {
             "id": "create:honeyed_apple",
             "required": false
         },
