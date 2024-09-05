@@ -18,5 +18,5 @@ team join Admin AckCreature
 team add Moderator {"text":"Moderator","color":"#6F79F7"}
 team modify Moderator prefix {"text":"[Moderator] ","color":"#6F79F7"}
 team join Moderator Pigeon_bif
-team join Moderator ItsN0tDucky
+team join Moderator its3vie
 team join Moderator LumiinaStar
