@@ -2,6 +2,7 @@
 	"powers": [
 		"slore_smp:sizes/0_75_blocks",
 		"origins:climbing",
+		"slore_smp:general/lessfall",
 		"slore_smp:general/night_vision",
 		"origins:sprint_jump",
 		"origins:no_shield",

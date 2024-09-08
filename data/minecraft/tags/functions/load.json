@@ -1,6 +1,7 @@
 {
-  "values":[
-	"slore_smp:load",
-  "slore_smp:teams"
+  "replace": false,
+  "values": [
+    "slore_smp:load",
+    "slore_smp:teams"
   ]
 }
