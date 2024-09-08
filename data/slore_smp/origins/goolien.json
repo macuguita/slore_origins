@@ -1,5 +1,5 @@
 {
-	"powers":[
+	"powers": [
 		"slore_smp:goolien/absorbent",
 		"slore_smp:goolien/condensing",
 		"slore_smp:goolien/flammable",
@@ -12,8 +12,8 @@
 		"slore_smp:goolien/sticky_grip",
 		"origins:no_shield"
 	],
-	"icon":"minecraft:slime_block",
-	"impact":3,
+	"icon": "minecraft:slime_block",
+	"impact": 3,
 	"name": "Goolien",
 	"description": "Goolien origin made by macuguita."
 }

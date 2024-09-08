@@ -16,7 +16,6 @@
 		"slore_smp:dragon/projectile"
 	],
 	"icon": "minecraft:lava_bucket",
-	"order": 1,
 	"impact": 3,
 	"name": "Dragon",
 	"description": "Dragon origin made by macuguita."

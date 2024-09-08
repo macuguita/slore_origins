@@ -1,5 +1,5 @@
 {
-	"powers":[
+	"powers": [
 		"slore_smp:sizes/2_5_blocks",
 		"origins:fire_immunity",
 		"origins:fragile",
@@ -15,8 +15,8 @@
 		"slore_smp:ghast/not_warm_shaking",
 		"slore_smp:ghast/red_nether_phasing"
 	],
-	"icon":"minecraft:fire_charge",
-	"impact":3,
+	"icon": "minecraft:fire_charge",
+	"impact": 3,
 	"name": "Ghast",
 	"description": "Ghast origin made by macuguita."
 }

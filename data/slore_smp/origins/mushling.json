@@ -10,8 +10,7 @@
 		"slore_smp:health/2_less_hearts"
 	],
 	"icon": "minecraft:red_mushroom",
-	"order": 3,
-	"impact": 3,
+	"impact": 1,
 	"name": "Mushling",
 	"description": "Just a fungus boi with dank intentions."
 }

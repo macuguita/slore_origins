@@ -10,7 +10,6 @@
 		"slore_smp:general/2x_less_damage"
 	],
 	"icon": "minecraft:lantern",
-	"order": 1,
 	"impact": 2,
 	"name": "Moth",
 	"description": "Moth origin made by macuguita."

@@ -16,6 +16,5 @@
     "name": "Yeti",
     "description": "A dangrous creature from the himalayas.",
     "icon": "minecraft:snow_block",
-    "impact": 3,
-    "order": 0
+    "impact": 3
 }

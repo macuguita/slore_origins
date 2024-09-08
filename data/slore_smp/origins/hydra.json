@@ -7,7 +7,6 @@
 		"slore_smp:hydra/extra_heads"
 	],
 	"icon": "minecraft:blue_concrete",
-	"order": 3,
 	"impact": 2,
 	"name": "Hydra",
 	"description": "The Hydra is a mythological creature with mulitple heads."

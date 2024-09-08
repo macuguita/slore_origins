@@ -9,8 +9,7 @@
 		"slore_smp:health/5_less_hearts"
 	],
 	"icon": "minecraft:honeycomb",
-	"order": 3,
-	"impact": 1,
+	"impact": 2,
 	"name": "Bee",
 	"description": "Bee origin made by macuguita."
 }
