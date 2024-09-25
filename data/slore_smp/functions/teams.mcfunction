@@ -14,9 +14,7 @@ team join Admin Ginge05_
 team join Admin Ice05_
 team join Admin Lowkey_kass
 team join Admin ZANmeow
-team join Admin AckCreature
+team join Admin its3vie
 team add Moderator {"text":"Moderator","color":"#6F79F7"}
 team modify Moderator prefix {"text":"[Moderator] ","color":"#6F79F7"}
 team join Moderator Pigeon_bif
-team join Moderator its3vie
-team join Moderator LumiinaStar
