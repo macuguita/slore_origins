@@ -1,6 +1,6 @@
 {
   "name": "Fragile",
-  "description": "You are fragile with 2 less hearts than an average player",
+  "description": "You are fragile with 2 less hearts than an average player.",
   "type": "origins:attribute",
     "modifier": {
       "id": "*:*",

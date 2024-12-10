@@ -1,0 +1,21 @@
+{
+  "name": "Loved by villagers",
+  "description": "Villagers villagers are your greatest fans, they see you as their guardian, and they always look up to you (literally and figuratively).",
+  "type": "origins:action_over_time",
+  "interval": 20,
+  "entity_action": {
+      "type": "origins:and",
+      "actions": [
+          {
+              "type": "origins:execute_command",
+              "command": "execute at @s as @e[type=villager,distance=..7] run data merge entity @s {Gossips:[{Target:[I;1,1,1,1],Type:'major_positive',Value:110}]}",
+              "permission_level": 4
+          },
+          {
+              "type": "origins:execute_command",
+              "command": "execute at @s as @e[type=villager,distance=..7] run data modify entity @s Gossips[{Target:[I;1,1,1,1]}].Target set from entity @p UUID",
+              "permission_level": 4
+          }
+      ]
+  }
+}

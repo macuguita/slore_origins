@@ -1,6 +1,6 @@
 {
   "name": "Diminutive",
-  "description": "You are immune to thorns and velocity based damage",
+  "description": "You are immune to thorns and velocity based damage.",
   "type": "origins:multiple",
   "scale": {
     "type": "origins:attribute",

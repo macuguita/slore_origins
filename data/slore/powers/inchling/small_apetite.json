@@ -1,10 +1,9 @@
 {
   "name": "Small Apetite",
-  "description": "You exhaust much slower than others, requiring you to eat less",
+  "description": "You exhaust much slower than others, requiring you to eat less.",
   "type": "origins:modify_exhaustion",
-  "modifier": {
-   "name": "Origin modifier",
-   "operation": "multiply_base",
-   "value": -0.75
-  }
+	"modifier": {
+		"amount": 1.6,
+		"operation": "multiply_base_multiplicative"
+	}
 }

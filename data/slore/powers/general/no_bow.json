@@ -1,0 +1,19 @@
+{
+  "name": "No-Bow",
+  "description": "Your hands don't allow you to hold bows properly.",
+  "type": "origins:multiple",
+  "swords_only": {
+      "type": "origins:prevent_item_use",
+      "item_condition": {
+          "type": "origins:ingredient",
+          "ingredient": [
+              {
+                  "item": "bow"
+              },
+              {
+                  "item": "crossbow"
+              }
+          ]
+      }
+  }
+}

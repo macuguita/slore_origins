@@ -1,0 +1,15 @@
+{
+  "name": "Wither touch",
+  "description": "Whenever you hit and entity, said entity gets the wither effect.",
+  "type": "origins:target_action_on_hit",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "id": "minecraft:wither",
+      "duration": 50,
+      "is_ambient": true,
+      "show_particles": true,
+      "show_icon": true
+    }
+  }
+}

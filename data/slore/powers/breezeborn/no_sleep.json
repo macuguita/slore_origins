@@ -1,6 +1,6 @@
 {
   "name": "Hyperactivity",
-  "description": "You cannot sleep",
+  "description": "You cannot sleep.",
   "type": "origins:prevent_sleep",
   "block_condition": {
     "type": "origins:height",

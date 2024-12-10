@@ -2,6 +2,9 @@
   "replace": false,
   "origins": [
     "slore:breezeborn",
-    "slore:inchling"
+    "slore:inchling",
+    "slore:wither_skeleton",
+    "slore:golem",
+    "slore:vexling"
   ]
 }

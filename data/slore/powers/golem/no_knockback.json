@@ -1,0 +1,14 @@
+{
+  "name": "Knockback resistance",
+  "description": "You take no knockback.",
+  "type": "origins:multiple",
+  "knockback": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.knockback_resistance",
+      "amount": 100000000000000000000,
+      "operation": "add_value"
+    }
+  }
+}

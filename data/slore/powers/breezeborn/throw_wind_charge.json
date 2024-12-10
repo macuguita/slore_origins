@@ -1,6 +1,6 @@
 {
   "name": "Gust",
-  "description": "Whenever you want, you may throw a wind charge",
+  "description": "Whenever you want, you may throw a wind charge.",
   "type": "origins:fire_projectile",
   "cooldown": 60,
   "hud_render": {

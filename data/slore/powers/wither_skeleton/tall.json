@@ -1,0 +1,14 @@
+{
+  "name": "Tall",
+  "description": "You are taller than the average player.",
+  "type": "origins:multiple",
+  "scale": {
+   "type": "origins:attribute",
+   "modifier": {
+    "id": "*:*",
+    "attribute": "minecraft:generic.scale",
+    "amount": 0.25,
+    "operation": "add_value"
+   }
+  }
+ }

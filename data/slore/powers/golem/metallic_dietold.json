@@ -1,0 +1,270 @@
+{
+  "name": "Metallic diet",
+  "description": "You can only eat Iron",
+  "type": "origins:multiple",
+  "preventotherfood": {
+    "name": "Human Food",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_block"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:raw_iron_block"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_helmet"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_chestplate"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_leggings"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_boots"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_trapdoor"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_door"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_ingot"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:raw_iron"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_bars"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:iron_nugget"
+          },
+          "inverted": true
+        },
+        {
+          "type": "origins:food"
+        }
+      ]
+    }
+  },
+  "edible_iron_block": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "food_component": {
+      "nutrition": 20,
+      "saturation": 3.0
+    },
+    "use_action": "eat"
+  },
+  "edible_raw_iron_block": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:raw_iron_block"
+      }
+    },
+    "food_component": {
+      "nutrition": 15,
+      "saturation": 1.0
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_helmet": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_helmet"
+      }
+    },
+    "food_component": {
+      "nutrition": 7,
+      "saturation": 1.0
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_chestplate": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "food_component": {
+      "nutrition": 12,
+      "saturation": 1.0
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_leggings": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_leggings"
+      }
+    },
+    "food_component": {
+      "nutrition": 8,
+      "saturation": 1.0
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_boots": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_boots"
+      }
+    },
+    "food_component": {
+      "nutrition": 7,
+      "saturation": 1.0
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_trapdoor": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_trapdoor"
+      }
+    },
+    "food_component": {
+      "nutrition": 15,
+      "saturation": 1.0 
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_door": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_door"
+      }
+    },
+    "food_component": {
+      "nutrition": 7,
+      "saturation": 1.0
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_ingot": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "food_component": {
+      "nutrition": 5,
+      "saturation": 1.5 
+    },
+    "use_action": "eat"
+  },
+  "edible_raw_iron": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "food_component": {
+      "nutrition": 4,
+      "saturation": 1.0 
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_bars": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_bars"
+      }
+    },
+    "food_component": {
+      "nutrition": 2,
+      "saturation": 1.0 
+    },
+    "use_action": "eat"
+  },
+  "edible_iron_nugget": {
+    "type": "origins:edible_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "minecraft:iron_nugget"
+      }
+    },
+    "food_component": {
+      "nutrition": 1,
+      "saturation": 0.0, 
+      "eat_seconds": 0.8
+    },
+    "use_action": "eat"
+  }
+}

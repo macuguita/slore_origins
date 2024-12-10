@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "slore:golem/big_frame",
+        "slore:golem/loved_by_villagers",
+        "slore:golem/no_knockback",
+        "slore:general/no_bow",
+        "origins:no_shield",
+        "origins:extra_reach"
+    ],
+    "icon": {
+      "id": "minecraft:carved_pumpkin"
+    },
+    "impact": 3,
+    "name": "Golem",
+    "description": "Golem origin made by macuguita"
+}
+  

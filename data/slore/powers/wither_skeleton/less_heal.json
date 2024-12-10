@@ -1,0 +1,9 @@
+{
+  "name": "Reduced Health Regeneration",
+  "description": "Your health regeneration is halved, making it slower to recover health.",
+  "type": "origins:modify_healing",
+  "modifier": {
+      "operation": "add_base_early",
+      "amount": -0.5
+  }
+}

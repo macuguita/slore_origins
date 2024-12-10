@@ -1,0 +1,63 @@
+{
+  "name": "Big frame",
+  "description": "You are bigger, stronger and more resistant that an average player, but also slower.",
+  "type": "origins:multiple",
+  "scale": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.scale",
+      "amount": 0.5,
+      "operation": "add_value"
+    }
+  },
+  "damage": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.attack_damage",
+      "amount": 10,
+      "operation": "add_value"
+    }
+  },
+  "armor": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.armor",
+      "amount": 3,
+      "operation": "add_value"
+    }
+  },
+  "attack": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.attack_speed",
+      "amount": -1,
+      "operation": "add_value"
+    }
+  },
+  "health": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.max_health",
+      "amount": 20,
+      "operation": "add_value"
+    }
+  },
+  "slow1": {
+    "type": "origins:prevent_sprinting"
+  },
+  "slow2": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "generic.movement_speed",
+      "amount": -0.2,
+      "operation": "add_multiplied_base"
+    },
+    "update_health": true
+  }
+}
