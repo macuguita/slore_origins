@@ -1,0 +1,43 @@
+name: Package Minecraft Datapack
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch name as needed
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  zip-datapack:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Prepare and zip the datapack
+      - name: Prepare and zip datapack
+        run: |
+          # Define the output zip file name
+          DATAPACK_NAME="sloreOrigins"
+          ZIP_FILE="$DATAPACK_NAME.zip"
+
+          # Ensure the required folder structure
+          mkdir -p build
+          cp -r data pack.mcmeta pack.png LICENSE build/
+
+          # Navigate to the build directory
+          cd build
+
+          # Zip the contents into a properly formatted zip file
+          zip -r "../$ZIP_FILE" .
+
+          # Navigate back to the root directory
+          cd ..
+
+      # Step 3: Upload the zip file as an artifact
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: minecraft-datapack
+          path: sloreOrigins.zip
