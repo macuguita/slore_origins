@@ -1,0 +1,9 @@
+{
+  "name": "Weak",
+  "description": "You take more damage than a normal player",
+  "type": "origins:modify_damage_taken",
+  "modifier": {
+    "operation": "addition",
+    "value": 1
+  }
+}

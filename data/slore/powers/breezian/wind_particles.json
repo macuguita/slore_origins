@@ -1,0 +1,7 @@
+{
+  "type": "origins:particle",
+  "particle": "minecraft:small_gust",
+  "offset_y": 1,
+  "frequency": 4,
+  "hidden": true
+}

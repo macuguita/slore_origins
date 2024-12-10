@@ -1,0 +1,11 @@
+{
+  "name": "Hyperactivity",
+  "description": "You cannot sleep",
+  "type": "origins:prevent_sleep",
+  "block_condition": {
+    "type": "origins:height",
+    "comparison": "<",
+    "compare_to": 1000
+  },
+  "message": "You can't sleep you are hyperactive"
+}

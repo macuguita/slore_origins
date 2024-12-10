@@ -1,0 +1,19 @@
+{
+  "name": "Gust",
+  "description": "Whenever you want, you may throw a wind charge",
+  "type": "origins:fire_projectile",
+  "cooldown": 60,
+  "hud_render": {
+    "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+    "bar_index": 8
+  },
+  "entity_type": "minecraft:breeze_wind_charge",
+  "sound": "minecraft:entity.breeze.shoot",
+  "speed": 1.5,
+  "divergence": 0,
+  "count": 2,
+  "key": {
+    "key": "key.origins.primary_active",
+    "continuous": false
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "name": "Hunger Immunity",
-  "description": "You are immune to hunger.",
-  "type": "origins:effect_immunity",
-  "effect": "minecraft:hunger"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Insomnia",
-    "description": "Dragons are too big to sleep on a bed. They can, however, set their spawn at a bed.",
-    "type": "origins:prevent_sleep",
-    "message": "You cannot sleep, as you are a dragon.",
-    "set_spawn_point": true
-}

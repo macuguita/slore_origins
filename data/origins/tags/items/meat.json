@@ -1,9 +1,0 @@
-{
-    "replace": true,
-    "values": [
-      {
-        "id": "#slore_smp:carnivore_food",
-        "required": false
-      }
-    ]
-  }

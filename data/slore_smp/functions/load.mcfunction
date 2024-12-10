@@ -1,1 +1,0 @@
-tellraw @a {"text": "Slore SMP origins Reloaded", "color":"#F600FD"}

@@ -1,0 +1,8 @@
+{
+  "name": "Like Air",
+  "description": "Modifiers to your walking speed alsoapply while you're airborne",
+  "type": "origins:attribute_modify_transfer",
+  "class": "modify_air_speed",
+  "attribute": "minecraft:generic.movement_speed",
+  "multiplier": 2
+}
