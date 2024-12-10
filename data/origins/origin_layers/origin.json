@@ -1,6 +1,7 @@
 {
   "replace": false,
   "origins": [
-    "slore:breezeborn"
+    "slore:breezeborn",
+    "slore:inchling"
   ]
 }

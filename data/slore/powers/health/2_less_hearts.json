@@ -2,10 +2,10 @@
   "name": "Fragile",
   "description": "You are fragile with 2 less hearts than an average player",
   "type": "origins:attribute",
-	"modifier": {
-		"id": "*:*",
-		"attribute": "minecraft:generic.max_health",
-		"amount": -4.0,
-		"operation": "add_value"
-	}
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.max_health",
+      "amount": -4.0,
+      "operation": "add_value"
+    }
 }
