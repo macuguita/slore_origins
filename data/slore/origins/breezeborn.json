@@ -1,18 +1,18 @@
 {
-	"powers": [
-		"slore:breezeborn/throw_wind_charge",
-		"origins:fall_immunity",
-		"slore:breezeborn/like_air",
-		"origins:sprint_jump",
-		"slore:breezeborn/no_sleep",
-		"slore:breezeborn/weak",
-		"slore:health/2_less_hearts",
-		"slore:breezeborn/wind_particles"
-	],
-	"icon": {
-		"id": "minecraft:wind_charge"
-	},
-	"impact": 2,
-	"name": "Breezeborn",
-	"description": "Breezeborn origin made by macuguita"
+  "powers": [
+    "slore:breezeborn/throw_wind_charge",
+    "origins:fall_immunity",
+    "slore:breezeborn/like_air",
+    "origins:sprint_jump",
+    "slore:breezeborn/no_sleep",
+    "slore:breezeborn/weak",
+    "slore:health/2_less_hearts",
+    "slore:breezeborn/wind_particles"
+  ],
+  "icon": {
+    "id": "minecraft:wind_charge"
+  },
+  "impact": 2,
+  "name": "Breezeborn",
+  "description": "Breezeborn origin made by macuguita"
 }

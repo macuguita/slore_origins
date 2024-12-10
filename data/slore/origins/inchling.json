@@ -1,15 +1,15 @@
 {
-	"powers": [
-		"slore:inchling/diminutive",
-		"slore:inchling/immunity",
-		"slore:inchling/small_apetite",
-		"origins:climbing",
-		"slore:inchling/jockey"
-	],
-	"icon": {
-		"id": "minecraft:anvil"
-	},
-	"impact": 3,
-	"name": "Inchling",
-	"description": "Inchling origin re-made by macuguita"
+  "powers": [
+    "slore:inchling/diminutive",
+    "slore:inchling/immunity",
+    "slore:inchling/small_apetite",
+    "origins:climbing",
+    "slore:inchling/jockey"
+  ],
+  "icon": {
+    "id": "minecraft:anvil"
+  },
+  "impact": 3,
+  "name": "Inchling",
+  "description": "Inchling origin re-made by macuguita"
 }
