@@ -1,0 +1,1 @@
+tellraw @a[team=Owner] {"text": "Slore SMP origins Reloaded", "color":"#F600FD"}
