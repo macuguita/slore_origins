@@ -1,0 +1,15 @@
+{
+  "powers": [
+    "slore:bee/float",
+    "slore:bee/small",
+    "slore:bee/poison_hit",
+    "slore:health/4_less_hearts",
+    "origins:fall_immunity"
+  ],
+  "icon": {
+    "id": "minecraft:honeycomb"
+  },
+  "impact": 1,
+  "name": "Bee",
+  "description": "Bee origin made by macuguita"
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Float",
+  "description": "Pressing the correspondent key will make you float up",
+  "type": "origins:multiple",
+  "resource": {
+    "should_render": true,
+    "type": "origins:resource",
+    "max": 300,
+    "min": 0,
+    "start_value": 300,
+    "hud_render": {
+      "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+      "bar_index": 3
+    }
+  },
+  "toggle": {
+    "type": "origins:toggle",
+    "key": "key.origins.primary_active",
+    "active_by_default": false
+  },
+  "timerdown": {
+    "type": "origins:action_over_time",
+    "interval": 1,
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*_toggle"
+    },
+    "entity_action": {
+      "type": "origins:modify_resource",
+      "modifier": {
+        "operation": "add_base_early",
+        "amount": -1
+      },
+      "resource": "*:*_resource"
+    }
+  },
+  "timerup": {
+    "type": "origins:action_over_time",
+    "interval": 1,
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*_toggle",
+      "inverted": true
+    },
+    "entity_action": {
+      "type": "origins:modify_resource",
+      "modifier": {
+        "operation": "add_base_early",
+        "amount": 1
+      },
+      "resource": "*:*_resource"
+    }
+  },
+  "respawn": {
+    "type": "origins:action_on_callback",
+    "entity_action_respawned": {
+      "type": "origins:change_resource",
+      "resource": "slore:*_resource",
+      "change": 300,
+      "operation": "set"
+    }
+  },
+  "float": {
+    "type": "origins:stacking_status_effect",
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*_toggle"
+    },
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "effect": {
+      "show_particles": false,
+      "show_icon": false,
+      "id": "minecraft:levitation",
+      "amplifier": 1
+    }
+  },
+  "weak": {
+    "type": "origins:stacking_status_effect",
+    "condition": {
+      "type": "origins:resource",
+      "comparison": "<=",
+      "resource": "*:*_resource",
+      "compare_to": 1
+    },
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "effect": {
+      "show_particles": true,
+      "show_icon": true,
+      "id": "minecraft:weakness",
+      "amplifier": 3
+    }
+  },
+  "wither": {
+    "type": "origins:stacking_status_effect",
+    "condition": {
+      "type": "origins:resource",
+      "comparison": "<=",
+      "resource": "*:*_resource",
+      "compare_to": 1
+    },
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "effect": {
+      "show_particles": true,
+      "show_icon": true,
+      "id": "minecraft:wither",
+      "amplifier": 1
+    }
+  }
+}

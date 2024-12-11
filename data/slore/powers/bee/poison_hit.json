@@ -1,0 +1,26 @@
+{
+  "name": "Sting",
+  "description": "Whenever you hit and entity, said entity gets the poison effect.",
+  "type": "origins:target_action_on_hit",
+  "cooldown": 200,
+  "hud_render": {
+    "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+    "bar_index": 18
+  },
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "id": "minecraft:poison",
+      "duration": 75,
+      "is_ambient": true,
+      "show_particles": true,
+      "show_icon": true
+    },
+    "condition": {
+      "type": "origins:resource",
+      "comparison": "==",
+      "resource": "*:*_resource",
+      "compare_to": 200
+    }
+  }
+}

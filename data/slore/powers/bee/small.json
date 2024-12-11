@@ -1,0 +1,31 @@
+{
+  "name": "Small",
+  "description": "You are smaller than the average player, making you have less reach and less health.",
+  "type": "origins:multiple",
+  "scale": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.scale",
+      "amount": -0.5,
+      "operation": "add_value"
+    }
+  },
+  "reach": {
+    "type": "origins:attribute",
+    "modifiers": [
+      {
+        "id": "*:*",
+        "attribute": "minecraft:player.block_interaction_range",
+        "amount": -1.5,
+        "operation": "add_value"
+      },
+      {
+        "id": "*:*",
+        "attribute": "minecraft:player.entity_interaction_range",
+        "amount": -1.5,
+        "operation": "add_value"
+      }
+    ]
+  }
+}

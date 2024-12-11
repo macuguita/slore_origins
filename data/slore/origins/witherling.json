@@ -1,0 +1,20 @@
+{
+  "powers": [
+    "slore:wither_skeleton/tall",
+    "slore:wither_skeleton/wither_hit",
+    "slore:wither_skeleton/feared_by_villagers",
+    "slore:wither_skeleton/feared_by_piglins",
+    "slore:general/no_bow",
+    "origins:no_shield",
+    "origins:fire_immunity",
+    "origins:nether_spawn",
+    "origins:extra_reach",
+    "origins:water_vulnerability"
+  ],
+  "icon": {
+    "id": "minecraft:wither_skeleton_skull"
+  },
+  "impact": 2,
+  "name": "Wither Skeleton",
+  "description": "Wither Skeleton origin made by macuguita"
+}
